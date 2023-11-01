@@ -18,7 +18,7 @@ csv_file_path = 'C:\Users\mwalker\Desktop\Capstone - HR Dashboard\All Certs_Clea
 row_count = count_csv_rows(csv_file_path)
 
 
-#Add in fake names
+#Create fake names
 from faker import Faker
 fake = Faker()
 
