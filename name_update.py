@@ -1,6 +1,8 @@
 #Count rows from CSV
 import csv
 
+csv_file_path = (r"C:\Users\mwalker\Desktop\CS_HR_DASH\Capstone_HR_Dashboard\All Certs_Clean.csv")
+
 def count_csv_rows(file_path):
     try:
         with open(file_path, 'r', newline='') as csv_file:
@@ -14,7 +16,7 @@ def count_csv_rows(file_path):
         print(f"An error occurred: {str(e)}")
         return -1  # Other errors
 
-csv_file_path = 'C:\Users\mwalker\Desktop\Capstone - HR Dashboard\All Certs_Clean.csv'
+
 row_count = count_csv_rows(csv_file_path)
 
 
@@ -28,8 +30,8 @@ for i in range(0, row_count):
 
 
 #Update names with fake names
-input_csv_file = 'C:\Users\mwalker\Desktop\Capstone - HR Dashboard\All Certs_Clean.csv'
-output_csv_file = 'C:\Users\mwalker\Desktop\Capstone - HR Dashboard\All Certs_New Names.csv'
+input_csv_file = (r"C:\Users\mwalker\Desktop\CS_HR_DASH\Capstone_HR_Dashboard\All Certs_Clean.csv")
+output_csv_file = (r"C:\Users\mwalker\Desktop\CS_HR_DASH\Capstone_HR_Dashboard\All Certs_New Names.csv")
 replacement_data = New_Data
 
 
