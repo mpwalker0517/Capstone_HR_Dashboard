@@ -1,4 +1,4 @@
-SELECT `contacts`.`ContactName` as 'Employee', `userdefinedfields`.`UserDefinedFieldID` as 'Product',`userdefinedfields`.`Name` as 'Assessment',`userdefinedvalues`.`UDFValue` as 'Score and Date'
+SELECT `contacts`.`ContactName` as 'Employee', `userdefinedfields`.`UserDefinedFieldID` as 'Product',`userdefinedfields`.`Name` as 'Assessment',`userdefinedvalues`.`UDFValue` as 'Score_Date'
 FROM `mwalkerlcs-morgan_rm12`.`userdefinedfields`
 INNER JOIN `mwalkerlcs-morgan_rm12`.`userdefinedvalues` ON `userdefinedfields`.`UserDefinedFieldID`=`userdefinedvalues`.`UserDefinedFieldID`
 INNER JOIN `mwalkerlcs-morgan_rm12`.`contacts` ON `contacts`.`EntityKeyID`=`userdefinedvalues`.`EntityKeyID`

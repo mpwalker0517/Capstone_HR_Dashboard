@@ -2,6 +2,8 @@
 
 The purpose of this Dashboard is to showcase the measureables of our team, including certification scores, call coaching stats, and quality of new hire stats. All statistics are stored in a secure SQL database that I can not grant access to for testing the final project, but I utilized SQL to pull info from the database and created Excel files from those queries to utilize in Tableau. Also will utilize Python to make adjustments to Excel files for security purposes. 
 
+Each step is listed out in the Jupyter Notebook to allow for testing items. Overview of work completed below:
+
 
 -Certification scores 
 	1. Completed SQL request from database utilizing inner joins to gather employee name, certification, scores, and dates.
