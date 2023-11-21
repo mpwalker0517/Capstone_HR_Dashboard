@@ -5,6 +5,8 @@ Clean your data and perform a pandas merge with your two data sets, then calcula
 
 *Make at least 1 Pandas pivot table and 1 matplotlib/seaborn plot. Pivot tables are a way to summarize your data and present it easily in a way that isn’t just a graph. They can be useful when combined with graphs.
 
-*Create virtual environment and install all packages used in python testing
+*Create virtual environment and install all packages used in python testing - DONE
 
-*Finish read me file
+*Finish read me file - DONE
+
+*Update markdowns to show the WHY 
