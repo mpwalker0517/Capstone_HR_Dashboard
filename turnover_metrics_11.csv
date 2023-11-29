@@ -1,0 +1,77 @@
+Employee ID,Employee,Coach,Role,Department,Date of Hire,Date of Termination,Turnover Risk,Termination,QNH Termination
+58,Deborah Gentry MD,Don Paquette,ProServWebD/D,Pro Services,4/22/2019,7/21/2023,Low Risk,,
+220,Yolanda Smith,Don Paquette,Social Media,Marketing,12/2/2019,9/29/2023,Low Risk,,
+253,Samantha Morris,Morgan Walker,ProServWebD/D ,Pro Services,12/17/2018,8/31/2023,Low Risk,,
+328,Shannon Flores,Don Paquette,CaseAnalysisMgr ,Bus Analysis,6/8/2015,5/12/2023,Low Risk,,
+369,Jacqueline Barrett,,LrngMgmtCoord ,Training,3/30/2015,2/24/2023,Low Risk,Voluntary,
+384,Brianna Richards,,DevExpress ,Dev/QA-RM EXP,5/14/2018,5/24/2023,Low Risk,Voluntary,
+459,Jeffrey Collins,Jennifer Kephart,DevQManage ,Dev/QA-QManage,5/28/2019,1/20/2023,Low Risk,Voluntary,
+467,James Warren,,IT SuppSpec ,IT Services,11/2/2015,4/28/2023,Low Risk,Voluntary,
+512,Christopher Thomas,Don Paquette,DevT&R II ,Dev Tools & Release,1/7/2013,4/25/2023,Low Risk,Voluntary,
+532,David Roman,Morgan Walker,DevExpress ,Dev/QA-RM EXP,5/26/2020,7/7/2023,Low Risk,Voluntary,
+556,Mr. Mark Carroll,Jennifer Kephart,CDEV/Copy ,Marketing,6/15/2020,7/28/2023,Low Risk,,
+601,Travis Jimenez,Don Paquette,DevExpress ,Dev/QA-RM EXP,8/24/2020,8/25/2023,Low Risk,,
+603,Maria Hernandez,Don Paquette,DevExpress ,Dev/QA-RM EXP,8/24/2020,1/26/2023,Low Risk,Voluntary,
+637,Kelly Allison,Jennifer Kephart,DevInnov Co,Dev/QA-WD Innov,12/21/2020,8/8/2023,Low Risk,,
+644,Megan Jones,Morgan Walker,QA Express Co,Dev/QA-RM EXP,1/4/2021,8/11/2023,Low Risk,,
+669,Laura Martin,Jennifer Kephart,DevAPI ,Dev/QA-API,5/10/2021,1/13/2023,Low Risk,Voluntary,
+700,Robert Johnson,Jennifer Kephart,ProServDev I ,Pro Services,8/16/2021,1/6/2023,Low Risk,Voluntary,
+716,Alexandra Griffin,Jennifer Kephart,General ,Product Support,11/1/2021,2/22/2023,Low Risk,Involuntary,
+725,Trevor Miranda,Don Paquette,Finance ,Product Support,12/20/2021,3/7/2023,Some Risk,Voluntary,
+728,Dominique Garcia,Jennifer Kephart,QA qManage co,Dev/QA-QManage,1/4/2022,1/6/2023,Low Risk,,
+730,Glenn Valenzuela,Morgan Walker,Finance ,Product Support,1/4/2022,8/25/2023,Low Risk,,
+759,Lynn Steele,Jennifer Kephart,DevAPI Co,Dev/QA-API,5/2/2022,5/26/2023,High Risk,,
+764,Leslie Calhoun MD,Morgan Walker,Systems ,Systems,5/16/2022,10/17/2023,Some Risk,Voluntary,
+780,Kenneth Johnson,Jennifer Kephart,QA Express Co,Dev/QA-RM EXP,5/23/2022,8/11/2023,Low Risk,,
+788,Valerie Lester,Don Paquette,Finance ,Product Support,6/6/2022,1/16/2023,Some Risk,Voluntary,
+791,Amy Ward,Don Paquette,DevQManageCoop ,Dev/QA-QManage,6/6/2022,1/16/2023,Low Risk,,
+796,Steven Bridges,Jennifer Kephart,Sales ,Sales,6/13/2022,9/1/2023,High Risk,,
+806,James Meyers,Morgan Walker,ProServ I ,Pro Services,7/11/2022,1/27/2023,Low Risk,Voluntary,
+811,Nancy Anderson,Morgan Walker,Tech ,Product Support,8/1/2022,1/18/2023,Low Risk,Voluntary,-30
+815,John Hardin,Don Paquette,Tech ,Product Support,8/8/2022,7/25/2023,Low Risk,,
+817,Carla Harrison,Jennifer Kephart,QA API Co,Dev/QA-API,8/15/2022,8/11/2023,Low Risk,,
+818,Jason Grant,Jennifer Kephart,QA API Co,Dev/QA-API,8/15/2022,8/9/2023,Low Risk,,
+819,Tracy Jones,Jennifer Kephart,QA Express Co,Dev/QA-RM EXP,8/15/2022,8/11/2023,Low Risk,,
+820,Dylan Webb,Jennifer Kephart,QA Express Co,Dev/QA-RM EXP,8/15/2022,8/9/2023,Low Risk,,
+848,Brian Hernandez,Jennifer Kephart,Finance ,Product Support,10/17/2022,6/19/2023,Low Risk,Voluntary,-30
+852,Ana Guzman,Morgan Walker,Tech ,Product Support,11/14/2022,1/13/2023,Low Risk,Voluntary,
+853,Daniel Henry,Morgan Walker,Finance ,Product Support,11/14/2022,2/10/2023,Low Risk,Voluntary,
+854,Richard Strickland,Don Paquette,DevPortal ,Dev/QA-Portal,11/21/2022,6/30/2023,Low Risk,Voluntary,-30
+855,Ann Carroll,Jennifer Kephart,Web ,Product Support,11/28/2022,2/20/2023,Low Risk,,
+858,Antonio Smith,Jennifer Kephart,Scripting ,Product Support,12/5/2022,1/5/2023,Low Risk,Voluntary,-30
+866,Jonathan Merritt,Jennifer Kephart,Finance ,Product Support,1/3/2023,1/3/2023,Low Risk,,
+867,Margaret Jones,Don Paquette,Systems ,Systems,1/9/2023,1/9/2023,Low Risk,,
+870,Patrick Griffin,Jennifer Kephart,DevQManage ,Dev/QA-QManage,1/3/2023,2/1/2023,Low Risk,Voluntary,-30
+872,Richard Cannon,Don Paquette,Sales Intern ,Sales,1/9/2023,4/28/2023,Low Risk,,
+882,Kayla Scott,Don Paquette,Finance ,Product Support,1/23/2023,9/18/2023,Low Risk,,
+883,Jonathan Brown,Morgan Walker,DevAPI ,Dev/QA-API,1/30/2023,9/8/2023,Low Risk,Voluntary,-30
+884,Christina Sloan,Morgan Walker,Tech ,Product Support,1/30/2023,3/30/2023,Low Risk,Voluntary,
+888,Monica Padilla MD,Jennifer Kephart,Finance ,Product Support,2/6/2023,3/6/2023,Low Risk,Voluntary,-30
+892,Nathan Cuevas,Morgan Walker,General ,Product Support,2/20/2023,11/22/2023,Some Risk,Voluntary,-30
+893,Erica Jefferson,Jennifer Kephart,Mobile,Product Support,2/20/2023,4/4/2023,Low Risk,,
+896,Lisa Acosta,Don Paquette,Systems ,Systems,3/13/2023,11/22/2023,Low Risk,Voluntary,-30
+897,Mallory Davis,Morgan Walker,Tech ,Product Support,3/27/2023,4/12/2023,Low Risk,Voluntary,-30
+901,Christine Hopkins,Morgan Walker,DevMobile11,Dev/QA-Mobile,4/17/2023,11/10/2023,Low Risk,Voluntary,-30
+907,Kyle Walker,Morgan Walker,Finance ,Product Support,5/1/2023,5/17/2023,Low Risk,Voluntary,-30
+914,Lisa Harper,Morgan Walker,QA Express Co,Dev/QA-RM EXP,5/1/2023,8/18/2023,Low Risk,,
+917,Yolanda Gibson,Don Paquette,DevExpress II,Dev/QA-RM EXP,5/8/2023,8/24/2023,High Risk,,
+918,Xavier Ward,Don Paquette,Dev Express III,Dev/QA-RM EXP,5/8/2023,7/7/2023,Low Risk,Voluntary,-30
+920,Victoria Mendoza,Don Paquette,QA API Co,Dev/QA-API,5/8/2023,8/9/2023,Low Risk,,
+921,Melvin Rivers,Don Paquette,DevQManageCoop ,Dev/QA-QManage,5/8/2023,8/4/2023,Low Risk,,
+922,Dr. Rebecca Good MD,Don Paquette,QA RM12 Coop,RM12,5/8/2023,8/11/2023,Low Risk,,
+926,Amber Roach,Jennifer Kephart,Marketing Co,Marketing,5/15/2023,8/11/2023,Low Risk,,
+927,Kristen Mullen,Jennifer Kephart,Sales Intern,Sales,5/15/2023,8/9/2023,Low Risk,,
+928,Tiffany Barr,Jennifer Kephart,DevQManageCo,Dev/QA-QManage,5/15/2023,8/4/2023,Low Risk,,
+929,Michael Pitts,Jennifer Kephart,Api Serv Dev Co,API Services,5/15/2023,8/16/2023,Low Risk,,
+933,Carol Hill,Jennifer Kephart,QA Tools Co,Dev Tools & Release,5/15/2023,8/11/2023,Low Risk,,
+935,Paul Byrd,Morgan Walker,DevExps Co,Dev/QA-RM EXP,5/22/2023,8/11/2023,Low Risk,,
+936,Kelly Warren,Morgan Walker,QA API Co,Dev/QA-API,5/22/2023,8/11/2023,Low Risk,,
+938,Paul Pineda,Morgan Walker,Tech ,Product Support,5/22/2023,7/28/2023,Low Risk,Voluntary,-30
+943,Christina Grimes,Don Paquette,QA Portal Co,Dev/QA-Portal,5/30/2023,8/17/2023,Low Risk,,
+945,Marco Torres,Jennifer Kephart,Finance ,Product Support,6/5/2023,6/27/2023,Low Risk,Voluntary,-30
+952,Brittany White,Morgan Walker,Marketing Co,Marketing,6/12/2023,9/1/2023,Low Risk,,
+953,Christopher Olson,Jennifer Kephart,Tech ,Product Support,6/19/2023,9/1/2023,Low Risk,,-30
+957,Shawn Smith,Morgan Walker,Scripting ,Product Support,7/10/2023,9/15/2023,Low Risk,,-30
+960,Robert Lopez,Don Paquette,Finance ,Product Support,7/24/2023,8/14/2023,Some Risk,,-30
+971,Darren Gomez,Morgan Walker,Scripting ,Product Support,8/14/2023,10/17/2023,Low Risk,Voluntary,-30
+986,Deanna Anderson,Morgan Walker,Tech ,Product Support,9/11/2023,9/29/2023,Low Risk,,-30

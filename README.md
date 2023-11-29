@@ -18,9 +18,13 @@ You can access my virtual environment (my_env) or install all requirements using
 4. Used merge with Python to combine data from separate CSVs
 5. Created pivot tables and other data visualizations with Python
 6. Markdown cells for each step as well as comments throughout
-7. Created a second jupyter notebook (hr_dashboard_overview) to display high-level overview of visualizations from hr_dashboard_all notebook
-8. Showcased data by publishing finzalized CSV into Tableau
+7. Created a separate jupyter notebook (Turnover) for turnover data, utilizing this CSV for visualizations in Tableau
+8. Created a third jupyter notebook (hr_dashboard_overview) to display high-level overview of visualizations from hr_dashboard_all notebook
+8. Showcased data by publishing finzalized data into Tableau
+	Certification data:
 		-https://public.tableau.com/views/Certifications_16980767476410/CertificationStory?:language=en-US&:display_count=n&:origin=viz_share_link
+	Turnover data:
+		-https://public.tableau.com/views/hr_dash_tableau/EmployeeTurnoverDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 
 
