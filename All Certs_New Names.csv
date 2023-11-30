@@ -1,0 +1,750 @@
+Employee,Product,Assessment,Score,Date Completed,Pass/Fail,Sum
+Nathaniel Hansen,RM12,Core Certification Assessment,87%,10/20/2023,TRUE,1
+Madison Smith,RM12,Core Certification Assessment,59%,10/19/2023,FALSE,0
+Shaun Johnson,RM12,Core Certification Assessment,100%,10/17/2023,TRUE,1
+Cindy Hughes,RM12,Core Certification Assessment,84%,10/13/2023,TRUE,1
+Jason Gentry,RM12,Core Certification Assessment,91%,10/13/2023,TRUE,1
+George Cannon,RM12,Core Certification Assessment,94%,10/13/2023,TRUE,1
+Joseph Castillo DDS,RM12,Core Certification Assessment,99%,10/12/2023,TRUE,1
+Jason Olsen,RM12,Core Certification Assessment,93%,10/9/2023,TRUE,1
+Michelle Hayes,RM12,Core Certification Assessment,77%,10/6/2023,FALSE,0
+Hunter Wilson,RM12,Core Certification Assessment,97%,10/6/2023,TRUE,1
+Tammy Ball,RM12,Core Certification Assessment,95%,10/5/2023,TRUE,1
+Daniel Khan,RM12,Core Certification Assessment,90%,10/4/2023,TRUE,1
+Richard Joyce,RM12,Core Certification Assessment,100%,10/4/2023,TRUE,1
+Robert Gibson,RM12,Core Certification Assessment,66%,10/3/2023,FALSE,0
+Amy Yates,RM12,Core Certification Assessment,57%,10/2/2023,FALSE,0
+Jamie Haley,RM12,Core Certification Assessment,89%,9/29/2023,TRUE,1
+Valerie Olson,RM12,Core Certification Assessment,62%,9/29/2023,FALSE,0
+Justin Jones,RM12,Core Certification Assessment,98%,9/27/2023,TRUE,1
+Kiara Hansen,RM12,Core Certification Assessment,89%,9/26/2023,TRUE,1
+Hunter Acevedo,RM12,Core Certification Assessment,79%,9/26/2023,TRUE,1
+Jeffrey Nelson,RMX,Core Certification Assessment,76%,9/26/2023,FALSE,0
+Jenna Sheppard,RM12,Core Certification Assessment,26%,9/25/2023,FALSE,0
+Dr. Kathryn Rodriguez,RM12,Core Certification Assessment,63%,9/22/2023,FALSE,0
+Kenneth Oconnor,RM12,Core Certification Assessment,100%,9/18/2023,TRUE,1
+Ernest Zimmerman,RM12,Core Certification Assessment,88%,9/15/2023,TRUE,1
+Joshua Rose,RM12,Core Certification Assessment,99%,9/15/2023,TRUE,1
+Ann Brooks,RM12,Core Certification Assessment,89%,9/15/2023,TRUE,1
+Katrina Gregory PhD,RM12,Core Certification Assessment,92%,9/13/2023,TRUE,1
+Patricia Mueller,RM12,Core Certification Assessment,44%,9/11/2023,FALSE,0
+James Carroll,RM12,Core Certification Assessment,100%,9/8/2023,TRUE,1
+Zachary Ross,RM12,Core Certification Assessment,94%,9/1/2023,TRUE,1
+Jessica Mason,RM12,Core Certification Assessment,95%,9/1/2023,TRUE,1
+Nicholas Perez,RM12,Core Certification Assessment,97%,8/25/2023,TRUE,1
+Bruce Haas,RM12,Core Certification Assessment,93%,8/25/2023,TRUE,1
+Daniel Schultz,RM12,Core Certification Assessment,94%,8/24/2023,TRUE,1
+Daniel Robinson,RM12,Core Certification Assessment,88%,8/24/2023,TRUE,1
+Carla Green,RM12,Core Certification Assessment,93%,8/24/2023,TRUE,1
+Edward Garcia,RM12,Core Certification Assessment,85%,8/23/2023,TRUE,1
+Dr. Gabriella Roberts,RM12,Core Certification Assessment,72%,8/22/2023,FALSE,0
+Zachary Bauer,RM12,Core Certification Assessment,69%,8/18/2023,FALSE,0
+Adam Oconnor,RM12,Core Certification Assessment,94%,8/18/2023,TRUE,1
+Peggy Lara,RM12,Core Certification Assessment,84%,8/17/2023,TRUE,1
+Jill Young,RM12,Core Certification Assessment,66%,8/17/2023,FALSE,0
+Dustin Kerr,RM12,Core Certification Assessment,100%,8/17/2023,TRUE,1
+Ryan Clarke,RM12,Core Certification Assessment,91%,8/16/2023,TRUE,1
+Melanie Rhodes,RM12,Core Certification Assessment,96%,8/16/2023,TRUE,1
+Katie Mitchell,RM12,Core Certification Assessment,90%,8/15/2023,TRUE,1
+David Campbell,RM12,Core Certification Assessment,73%,8/11/2023,FALSE,0
+Karen Torres,RM12,Core Certification Assessment,71%,8/10/2023,FALSE,0
+Jody Richardson,RM12,Core Certification Assessment,99%,8/10/2023,TRUE,1
+Karen Johnson,RM12,Core Certification Assessment,92%,8/4/2023,TRUE,1
+Tina Burch,RM12,Core Certification Assessment,94%,8/4/2023,TRUE,1
+Kelsey Edwards,RM12,Core Certification Assessment,70%,8/2/2023,FALSE,0
+Stephen Lucas,RM12,Core Certification Assessment,85%,7/28/2023,TRUE,1
+Clayton Allen,RM12,Core Certification Assessment,100%,7/28/2023,TRUE,1
+Erika Lee,RM12,Core Certification Assessment,84%,7/28/2023,TRUE,1
+Kristen Lowe,RM12,Core Certification Assessment,81%,7/21/2023,TRUE,1
+Kirk Morgan,RM12,Core Certification Assessment,95%,7/20/2023,TRUE,1
+Martha Butler,RM12,Core Certification Assessment,99%,7/14/2023,TRUE,1
+Andrew Murray,RM12,Core Certification Assessment,86%,7/14/2023,TRUE,1
+Michael Stewart,RM12,Core Certification Assessment,87%,7/13/2023,TRUE,1
+Nicholas Stephens,RM12,Core Certification Assessment,94%,7/7/2023,TRUE,1
+Brittany Payne,RM12,Core Certification Assessment,86%,7/7/2023,TRUE,1
+John Davis,RM12,Core Certification Assessment,76%,7/6/2023,FALSE,0
+Eric Hess,RM12,Core Certification Assessment,94%,7/6/2023,TRUE,1
+Timothy Griffin,RM12,Core Certification Assessment,75%,6/30/2023,FALSE,0
+Brian French,RM12,Core Certification Assessment,92%,6/29/2023,TRUE,1
+Brianna Lopez,RM12,Core Certification Assessment,97%,6/28/2023,TRUE,1
+Kristin Moore,RM12,Core Certification Assessment,75%,6/23/2023,FALSE,0
+Ashley Simon,RM12,Core Certification Assessment,72%,6/23/2023,FALSE,0
+Matthew Johnson,RM12,Core Certification Assessment,94%,6/19/2023,TRUE,1
+Courtney Dunn,RM12,Core Certification Assessment,68%,6/16/2023,FALSE,0
+Craig Hernandez,RM12,Core Certification Assessment,87%,6/16/2023,TRUE,1
+Douglas Wade,RM12,Core Certification Assessment,92%,6/13/2023,TRUE,1
+Amy Carpenter,RM12,Core Certification Assessment,52%,6/9/2023,FALSE,0
+Jenna Smith,RM12,Core Certification Assessment,89%,6/9/2023,TRUE,1
+Joshua Silva,RM12,Core Certification Assessment,91%,6/9/2023,TRUE,1
+Lori Espinoza,RM12,Core Certification Assessment,97%,6/9/2023,TRUE,1
+Lisa Edwards,RM12,Core Certification Assessment,80%,6/2/2023,TRUE,1
+Peter Galloway,RM12,Core Certification Assessment,100%,6/2/2023,TRUE,1
+Xavier Miller,RM12,Core Certification Assessment,100%,6/2/2023,TRUE,1
+Andrew Fox,RM12,Core Certification Assessment,90%,6/2/2023,TRUE,1
+William Marquez,RM12,Core Certification Assessment,84%,5/26/2023,TRUE,1
+Danny Miller,RM12,Core Certification Assessment,81%,5/26/2023,TRUE,1
+David Stuart,RM12,Core Certification Assessment,84%,5/26/2023,TRUE,1
+Heather Mcclain,RM12,Core Certification Assessment,74%,5/26/2023,FALSE,0
+Michael Flores,RM12,Core Certification Assessment,82%,5/26/2023,TRUE,1
+Christian Williams,RM12,Core Certification Assessment,96%,5/25/2023,TRUE,1
+Christopher Mack,RM12,Core Certification Assessment,57%,5/24/2023,FALSE,0
+Janet Mitchell,RM12,Core Certification Assessment,73%,5/24/2023,FALSE,0
+Thomas Galloway,RM12,Core Certification Assessment,87%,5/22/2023,TRUE,1
+Scott Bradshaw,RM12,Core Certification Assessment,97%,5/19/2023,TRUE,1
+Billy Hart,RM12,Core Certification Assessment,96%,5/19/2023,TRUE,1
+Katie White,RM12,Core Certification Assessment,100%,5/19/2023,TRUE,1
+Molly Hamilton,RM12,Core Certification Assessment,84%,5/19/2023,TRUE,1
+Daniel Booker,RM12,Core Certification Assessment,86%,5/19/2023,TRUE,1
+Lisa Hogan,RM12,Core Certification Assessment,94%,5/19/2023,TRUE,1
+Stephanie Cochran,RM12,Core Certification Assessment,90%,5/19/2023,TRUE,1
+Debra Cook,RM12,Core Certification Assessment,50%,5/19/2023,FALSE,0
+Harry Delgado,RM12,Core Certification Assessment,88%,5/19/2023,TRUE,1
+Jeff Anderson,RM12,Core Certification Assessment,88%,5/16/2023,TRUE,1
+Andrew Smith,RM12,Core Certification Assessment,93%,5/12/2023,TRUE,1
+Kristen Chase,RM12,Core Certification Assessment,92%,5/12/2023,TRUE,1
+Deanna Jefferson,RM12,Core Certification Assessment,84%,5/12/2023,TRUE,1
+Andrea Wood,RM12,Core Certification Assessment,92%,5/12/2023,TRUE,1
+Jackie Wright,RM12,Core Certification Assessment,83%,5/12/2023,TRUE,1
+Adrian Frazier,RM12,Core Certification Assessment,90%,5/12/2023,TRUE,1
+Kenneth Davis,RM12,Core Certification Assessment,93%,5/12/2023,TRUE,1
+Dale English,RM12,Core Certification Assessment,83%,5/11/2023,TRUE,1
+Justin Gallegos,RM12,Core Certification Assessment,76%,5/10/2023,FALSE,0
+Ryan Miller,RM12,Core Certification Assessment,82%,5/9/2023,TRUE,1
+Vanessa Robinson,RM12,Core Certification Assessment,80%,5/8/2023,TRUE,1
+James Huffman,RM12,Core Certification Assessment,67%,5/8/2023,FALSE,0
+Todd Wu,RM12,Core Certification Assessment,94%,5/5/2023,TRUE,1
+Michael Macdonald,RM12,Core Certification Assessment,100%,5/5/2023,TRUE,1
+Willie Duran,RM12,Core Certification Assessment,82%,5/5/2023,TRUE,1
+Jenna Patterson,RM12,Core Certification Assessment,65%,5/5/2023,FALSE,0
+Richard Johnson,RM12,Core Certification Assessment,95%,5/5/2023,TRUE,1
+Stacey Jacobs,RM12,Core Certification Assessment,86%,5/4/2023,TRUE,1
+Kayla Leach,RM12,Core Certification Assessment,91%,4/28/2023,TRUE,1
+Cynthia Smith,RM12,Core Certification Assessment,86%,4/28/2023,TRUE,1
+Juan Young,RM12,Core Certification Assessment,83%,4/28/2023,TRUE,1
+Tiffany Hall,RM12,Core Certification Assessment,98%,4/28/2023,TRUE,1
+Ms. Savannah Sawyer,RM12,Core Certification Assessment,98%,4/27/2023,TRUE,1
+Shawn Guzman,RM12,Core Certification Assessment,78%,4/25/2023,FALSE,0
+Adam Malone,RM12,Core Certification Assessment,81%,4/21/2023,TRUE,1
+Lauren Montgomery,RM12,Core Certification Assessment,91%,4/21/2023,TRUE,1
+Deborah Aguilar,RM12,Core Certification Assessment,97%,4/21/2023,TRUE,1
+Curtis Robinson,RM12,Core Certification Assessment,91%,4/21/2023,TRUE,1
+Lindsey Hamilton,RM12,Core Certification Assessment,75%,4/21/2023,FALSE,0
+Elizabeth Richards,RM12,Core Certification Assessment,63%,4/21/2023,FALSE,0
+Misty Lin,RM12,Core Certification Assessment,100%,4/5/2023,TRUE,1
+Joseph Freeman,RM12,Core Certification Assessment,62%,4/5/2023,FALSE,0
+Jennifer Ortiz,RM12,Core Certification Assessment,62%,3/30/2023,FALSE,0
+Brian Wilcox,RM12,Core Certification Assessment,100%,3/30/2023,TRUE,1
+Sheryl Morgan,RM12,Core Certification Assessment,88%,3/17/2023,TRUE,1
+Stephen Allen,RM12,Core Certification Assessment,93%,3/16/2023,TRUE,1
+Michael Cole PhD,RM12,Core Certification Assessment,98%,3/16/2023,TRUE,1
+Sara Prince,RM12,Core Certification Assessment,97%,3/16/2023,TRUE,1
+Brittany Young,RM12,Core Certification Assessment,100%,3/9/2023,TRUE,1
+Erika Ortega,RM12,Core Certification Assessment,91%,3/9/2023,TRUE,1
+Alexander Peters,RM12,Core Certification Assessment,90%,3/9/2023,TRUE,1
+Tonya Sandoval,RM12,Core Certification Assessment,70%,3/9/2023,FALSE,0
+Laura Mitchell,RM12,Core Certification Assessment,53%,3/9/2023,FALSE,0
+Darren Lindsey,RM12,Core Certification Assessment,90%,3/9/2023,TRUE,1
+Faith Howe,RM12,Core Certification Assessment,82%,3/2/2023,TRUE,1
+Walter Hill,RM12,Core Certification Assessment,91%,2/24/2023,TRUE,1
+Devin Miller,RM12,Core Certification Assessment,77%,2/23/2023,FALSE,0
+Claire Moreno,RM12,Core Certification Assessment,84%,2/23/2023,TRUE,1
+Denise Holmes,RM12,Core Certification Assessment,88%,2/23/2023,TRUE,1
+James Cooper,RM12,Core Certification Assessment,90%,2/23/2023,TRUE,1
+Joshua Smith,RM12,Core Certification Assessment,94%,2/23/2023,TRUE,1
+Scott Morgan,RM12,Core Certification Assessment,68%,2/23/2023,FALSE,0
+Brian Mason,RM12,Core Certification Assessment,96%,2/23/2023,TRUE,1
+Jason Stout,RM12,Core Certification Assessment,91%,2/23/2023,TRUE,1
+Joseph Roberts,RM12,Core Certification Assessment,94%,2/23/2023,TRUE,1
+William Benson,RM12,Core Certification Assessment,100%,2/16/2023,TRUE,1
+Caroline Compton,RM12,Core Certification Assessment,86%,2/16/2023,TRUE,1
+Todd West,RM12,Core Certification Assessment,94%,2/10/2023,TRUE,1
+Meredith Allen,RM12,Core Certification Assessment,97%,2/9/2023,TRUE,1
+Hannah Brennan,RM12,Core Certification Assessment,96%,2/9/2023,TRUE,1
+Mr. Jerry Rogers,RM12,Core Certification Assessment,97%,2/9/2023,TRUE,1
+Joshua Scott,RM12,Core Certification Assessment,95%,2/2/2023,TRUE,1
+Ashley Nelson,RM12,Core Certification Assessment,99%,2/2/2023,TRUE,1
+John Stephens,RM12,Core Certification Assessment,99%,2/2/2023,TRUE,1
+Laura Parker,RM12,Core Certification Assessment,92%,2/2/2023,TRUE,1
+Pamela Neal,RM12,Core Certification Assessment,98%,2/2/2023,TRUE,1
+Jade Hansen,RM12,Core Certification Assessment,94%,1/26/2023,TRUE,1
+Justin Andrade,RM12,Core Certification Assessment,91%,1/26/2023,TRUE,1
+Justin Moses,RM12,Core Certification Assessment,94%,1/26/2023,TRUE,1
+Patricia Sullivan,RM12,Core Certification Assessment,87%,1/19/2023,TRUE,1
+Michelle Thompson,RM12,Core Certification Assessment,70%,1/19/2023,FALSE,0
+Scott Robinson,RM12,Core Certification Assessment,74%,1/19/2023,FALSE,0
+Elizabeth Alexander MD,RM12,Core Certification Assessment,83%,1/12/2023,TRUE,1
+Kimberly Randall,RM12,Core Certification Assessment,99%,1/12/2023,TRUE,1
+Jeffrey Robinson,RM12,Bookkeeping Certification,97%,10/26/2023,TRUE,1
+Scott Mayer,RM12,Bookkeeping Certification,95%,10/25/2023,TRUE,1
+James Williams,RM12,Bookkeeping Certification,97%,10/20/2023,TRUE,1
+Christopher Hale,RM12,Bookkeeping Certification,88%,10/18/2023,TRUE,1
+John Chavez,RMX,Bookkeeping Certification,100%,10/17/2023,TRUE,1
+Allison Page,RM12,Bookkeeping Certification,66%,10/6/2023,FALSE,0
+Richard Brown,RM12,Bookkeeping Certification,87%,9/29/2023,TRUE,1
+Ashley White,RM12,Bookkeeping Certification,63%,9/27/2023,FALSE,0
+Mitchell Bell,RM12,Bookkeeping Certification,97%,9/26/2023,TRUE,1
+Robert Chapman,RM12,Bookkeeping Certification,100%,9/25/2023,TRUE,1
+Logan Beard,RM12,Bookkeeping Certification,40%,9/22/2023,FALSE,0
+Christopher Ellis,RM12,Bookkeeping Certification,64%,9/21/2023,FALSE,0
+Tyler Howard,RMX,Bookkeeping Certification,99%,9/20/2023,TRUE,1
+Jason Watts,RM12,Bookkeeping Certification,96%,8/25/2023,TRUE,1
+Lisa Thomas,RM12,Bookkeeping Certification,97%,8/18/2023,TRUE,1
+Robert Brooks,RM12,Bookkeeping Certification,83%,8/17/2023,TRUE,1
+Brittany Haney,RM12,Bookkeeping Certification,85%,8/16/2023,TRUE,1
+Joshua Sanders,RM12,Bookkeeping Certification,91%,8/11/2023,TRUE,1
+Mrs. Sarah Boone,RM12,Bookkeeping Certification,82%,8/11/2023,TRUE,1
+Charles Sanchez,RM12,Bookkeeping Certification,100%,7/27/2023,TRUE,1
+Crystal Gomez,RM12,Bookkeeping Certification,100%,7/27/2023,TRUE,1
+Brian Tanner,RM12,Bookkeeping Certification,97%,7/19/2023,TRUE,1
+Nicholas Morrison,RM12,Bookkeeping Certification,92%,7/6/2023,TRUE,1
+Maria Griffith,RM12,Bookkeeping Certification,83%,7/3/2023,TRUE,1
+Jack Jackson,RM12,Bookkeeping Certification,93%,6/30/2023,TRUE,1
+Jeremy Frye,RM12,Bookkeeping Certification,78%,6/29/2023,FALSE,0
+Michelle Anderson,RM12,Bookkeeping Certification,84%,6/20/2023,TRUE,1
+Todd Peterson,RM12,Bookkeeping Certification,86%,6/15/2023,TRUE,1
+Karen Hall,RM12,Bookkeeping Certification,77%,6/13/2023,FALSE,0
+Donald Rivera,RM12,Bookkeeping Certification,95%,6/13/2023,TRUE,1
+Ann Allen,RM12,Bookkeeping Certification,76%,6/9/2023,FALSE,0
+Derek Cannon,RM12,Bookkeeping Certification,79%,6/8/2023,TRUE,1
+Joseph Paul,RM12,Bookkeeping Certification,83%,6/7/2023,TRUE,1
+Cheryl Waters,RM12,Bookkeeping Certification,98%,5/24/2023,TRUE,1
+Donald Lewis,RM12,Bookkeeping Certification,97%,5/24/2023,TRUE,1
+Anna Scott,RM12,Bookkeeping Certification,91%,5/23/2023,TRUE,1
+Laura Thompson,RM12,Bookkeeping Certification,89%,5/22/2023,TRUE,1
+Seth Mercer Jr.,RM12,Bookkeeping Certification,46%,5/15/2023,FALSE,0
+John Thompson,RM12,Bookkeeping Certification,87%,5/11/2023,TRUE,1
+Ernest Powell,RM12,Bookkeeping Certification,86%,5/1/2023,TRUE,1
+Jason Harris,RM12,Bookkeeping Certification,95%,4/20/2023,TRUE,1
+Jasmine Brown,RM12,Bookkeeping Certification,81%,4/20/2023,TRUE,1
+Debbie Smith,RM12,Bookkeeping Certification,99%,4/20/2023,TRUE,1
+Cathy Russell,RM12,Bookkeeping Certification,55%,4/20/2023,FALSE,0
+Stephen Barber,RM12,Bookkeeping Certification,99%,4/20/2023,TRUE,1
+Thomas Jackson,RM12,Bookkeeping Certification,90%,4/13/2023,TRUE,1
+Glenn Hernandez,RM12,Bookkeeping Certification,90%,4/13/2023,TRUE,1
+Katrina Robertson,RM12,Bookkeeping Certification,87%,4/13/2023,TRUE,1
+Yolanda Davis,RM12,Bookkeeping Certification,96%,4/6/2023,TRUE,1
+Jamie Gutierrez,RM12,Bookkeeping Certification,99%,4/6/2023,TRUE,1
+Tiffany Williams,RM12,Bookkeeping Certification,100%,4/6/2023,TRUE,1
+Joel Smith,RM12,Bookkeeping Certification,92%,4/6/2023,TRUE,1
+Michael Espinoza,RM12,Bookkeeping Certification,100%,3/30/2023,TRUE,1
+Justin Crawford,RM12,Bookkeeping Certification,84%,3/30/2023,TRUE,1
+Randy Terrell,RM12,Bookkeeping Certification,90%,3/28/2023,TRUE,1
+Christopher Brown,RM12,Bookkeeping Certification,99%,3/24/2023,TRUE,1
+Joshua Franklin,RM12,Bookkeeping Certification,99%,3/23/2023,TRUE,1
+Dawn Hall,RM12,Bookkeeping Certification,89%,3/23/2023,TRUE,1
+Nathan Mullins,RM12,Bookkeeping Certification,99%,3/23/2023,TRUE,1
+Richard Sanders,RM12,Bookkeeping Certification,97%,3/23/2023,TRUE,1
+Aaron Simpson,RM12,Bookkeeping Certification,84%,3/22/2023,TRUE,1
+Angela Hood,RM12,Bookkeeping Certification,95%,3/22/2023,TRUE,1
+Sarah White,RM12,Bookkeeping Certification,99%,3/21/2023,TRUE,1
+Charles Kim,RM12,Bookkeeping Certification,87%,3/20/2023,TRUE,1
+Gregory Castillo,RM12,Bookkeeping Certification,91%,3/16/2023,TRUE,1
+Megan Perry,RM12,Bookkeeping Certification,94%,3/16/2023,TRUE,1
+Sharon Burton,RM12,Bookkeeping Certification,93%,3/16/2023,TRUE,1
+Matthew Pope,RM12,Bookkeeping Certification,96%,3/16/2023,TRUE,1
+Susan Cantrell,RM12,Bookkeeping Certification,66%,3/9/2023,FALSE,0
+Jonathan Perry,RM12,Bookkeeping Certification,97%,3/9/2023,TRUE,1
+John White,RM12,Bookkeeping Certification,92%,3/2/2023,TRUE,1
+Colin Pearson,RM12,Bookkeeping Certification,99%,3/2/2023,TRUE,1
+Christopher Dean,RM12,Bookkeeping Certification,95%,3/2/2023,TRUE,1
+Peggy Nguyen,RM12,Bookkeeping Certification,86%,3/2/2023,TRUE,1
+Christopher Clark,RM12,Bookkeeping Certification,99%,3/1/2023,TRUE,1
+Anthony Hughes,RM12,Bookkeeping Certification,82%,2/23/2023,TRUE,1
+John Montgomery,RM12,Bookkeeping Certification,97%,2/19/2023,TRUE,1
+Maria Clay,RM12,Bookkeeping Certification,100%,2/16/2023,TRUE,1
+Aaron Cruz,RM12,Bookkeeping Certification,96%,2/16/2023,TRUE,1
+Angie Baker,RM12,Bookkeeping Certification,98%,2/16/2023,TRUE,1
+Alicia Todd,RM12,Bookkeeping Certification,98%,2/13/2023,TRUE,1
+James Mitchell,RM12,Bookkeeping Certification,95%,2/10/2023,TRUE,1
+Amanda Smith,RM12,Bookkeeping Certification,78%,2/9/2023,FALSE,0
+Jason Moreno,RM12,Bookkeeping Certification,97%,2/9/2023,TRUE,1
+Keith Kelly,RM12,Bookkeeping Certification,72%,2/9/2023,FALSE,0
+Darrell Banks,RM12,Bookkeeping Certification,99%,2/9/2023,TRUE,1
+Jeffrey Thomas,RM12,Bookkeeping Certification,84%,2/7/2023,TRUE,1
+Denise Peterson,RM12,Bookkeeping Certification,82%,2/6/2023,TRUE,1
+Jennifer Perez,RM12,Bookkeeping Certification,97%,2/6/2023,TRUE,1
+Carolyn Reed,RM12,Bookkeeping Certification,91%,2/6/2023,TRUE,1
+Scott Olson,RM12,Bookkeeping Certification,94%,2/3/2023,TRUE,1
+Peter Chavez,RM12,Bookkeeping Certification,89%,2/3/2023,TRUE,1
+Connie Salazar,RM12,Bookkeeping Certification,61%,2/2/2023,FALSE,0
+Kimberly Lang,RM12,Bookkeeping Certification,87%,2/2/2023,TRUE,1
+Thomas Tran,RM12,Bookkeeping Certification,85%,2/2/2023,TRUE,1
+Ronald Wright,RM12,Bookkeeping Certification,93%,2/2/2023,TRUE,1
+Bradley Holland,RM12,Bookkeeping Certification,80%,2/2/2023,TRUE,1
+Benjamin Mathews,RM12,Bookkeeping Certification,96%,2/2/2023,TRUE,1
+Jackie Rhodes,RM12,Bookkeeping Certification,98%,2/2/2023,TRUE,1
+Thomas Morrison,RM12,Bookkeeping Certification,97%,1/31/2023,TRUE,1
+George Williams,RM12,Bookkeeping Certification,96%,1/26/2023,TRUE,1
+Melissa Franklin,RM12,Bookkeeping Certification,95%,1/26/2023,TRUE,1
+Erika Downs,RM12,Bookkeeping Certification,96%,1/26/2023,TRUE,1
+Kevin Richards,RM12,Bookkeeping Certification,84%,1/26/2023,TRUE,1
+Danielle Parsons,RM12,Bookkeeping Certification,94%,1/26/2023,TRUE,1
+Jennifer Hughes,RM12,Bookkeeping Certification,86%,1/20/2023,TRUE,1
+Teresa Walters,RM12,Bookkeeping Certification,97%,1/19/2023,TRUE,1
+Samuel White,RM12,Bookkeeping Certification,99%,1/11/2023,TRUE,1
+Erica Thompson,RM12,Bookkeeping Certification,91%,1/11/2023,TRUE,1
+Maria Boyd,RM12,Bookkeeping Certification,91%,1/6/2023,TRUE,1
+Dylan Nunez,RM12,Owners and Finance Queue,96%,10/20/2023,TRUE,1
+Patrick George,RM12,Owners and Finance Queue,20%,10/20/2023,FALSE,0
+Leah Herrera,RM12,Owners and Finance Queue,79%,10/20/2023,FALSE,0
+Olivia Brown,RM12,Owners and Finance Queue,73%,10/18/2023,FALSE,0
+Derek Paul,RMX,Owners and Finance Queue,100%,10/17/2023,TRUE,1
+Joel Wiggins,RM12,Owners and Finance Queue,100%,10/17/2023,TRUE,1
+Carol Banks,RM12,Owners and Finance Queue,80%,10/12/2023,TRUE,1
+Jacqueline Bush,RM12,Owners and Finance Queue,84%,10/11/2023,TRUE,1
+Nicole Williams,RM12,Owners and Finance Queue,85%,10/10/2023,TRUE,1
+Shane Murphy,RM12,Owners and Finance Queue,77%,10/9/2023,FALSE,0
+Thomas Fitzgerald,RM12,Owners and Finance Queue,73%,9/27/2023,FALSE,0
+Travis Burns,RM12,Owners and Finance Queue,77%,9/20/2023,FALSE,0
+Elizabeth Moore,RM12,Owners and Finance Queue,87%,9/20/2023,TRUE,1
+Robert Todd,RM12,Owners and Finance Queue,57%,9/15/2023,FALSE,0
+Crystal Huber,RM12,Owners and Finance Queue,76%,9/15/2023,FALSE,0
+Jason Lewis,RM12,Owners and Finance Queue,75%,9/11/2023,FALSE,0
+David Kerr,RM12,Owners and Finance Queue,99%,8/31/2023,TRUE,1
+Brittany Sparks,RM12,Owners and Finance Queue,87%,8/16/2023,TRUE,1
+Dawn Keller,RM12,Owners and Finance Queue,70%,8/11/2023,FALSE,0
+Brian Allen,RM12,Owners and Finance Queue,37%,8/10/2023,FALSE,0
+April Sutton,RM12,Owners and Finance Queue,85%,7/28/2023,TRUE,1
+Donna Harris,RM12,Owners and Finance Queue,64%,7/19/2023,FALSE,0
+Patrick Jones,RM12,Owners and Finance Queue,66%,7/10/2023,FALSE,0
+Carolyn Davis,RM12,Owners and Finance Queue,75%,6/30/2023,FALSE,0
+Jordan Mccarthy,RM12,Owners and Finance Queue,87%,6/28/2023,TRUE,1
+Danielle Beasley,RM12,Owners and Finance Queue,97%,6/22/2023,TRUE,1
+Katherine Giles,RM12,Owners and Finance Queue,82%,6/22/2023,TRUE,1
+Dr. Tina Conley,RM12,Owners and Finance Queue,83%,6/20/2023,TRUE,1
+Kayla Jordan,RM12,Owners and Finance Queue,84%,6/15/2023,TRUE,1
+Jared Gonzales,RM12,Owners and Finance Queue,72%,6/7/2023,FALSE,0
+Amy Roberts,RM12,Owners and Finance Queue,55%,6/7/2023,FALSE,0
+Christy Lopez,RM12,Owners and Finance Queue,81%,6/2/2023,TRUE,1
+Suzanne Miller,RM12,Owners and Finance Queue,69%,5/25/2023,FALSE,0
+Daniel Sloan,RM12,Owners and Finance Queue,60%,5/25/2023,FALSE,0
+Andrew Schroeder,RM12,Owners and Finance Queue,85%,5/24/2023,TRUE,1
+Yvonne Tanner,RM12,Owners and Finance Queue,76%,5/24/2023,FALSE,0
+Dwayne Vance,RM12,Owners and Finance Queue,85%,5/21/2023,TRUE,1
+Jessica Oliver,RM12,Owners and Finance Queue,91%,5/10/2023,TRUE,1
+Katelyn Bowman,RM12,Owners and Finance Queue,87%,5/8/2023,TRUE,1
+James Smith,RM12,Owners and Finance Queue,97%,5/5/2023,TRUE,1
+Anthony Cardenas,RM12,Owners and Finance Queue,86%,5/5/2023,TRUE,1
+Dr. Jennifer Hall,RM12,Owners and Finance Queue,99%,5/4/2023,TRUE,1
+Mrs. Tammy Bartlett,RM12,Owners and Finance Queue,94%,5/1/2023,TRUE,1
+James Zuniga,RM12,Owners and Finance Queue,72%,4/27/2023,FALSE,0
+Miss Erica Miles,RM12,Owners and Finance Queue,99%,4/26/2023,TRUE,1
+Nathan King,RM12,Owners and Finance Queue,97%,4/25/2023,TRUE,1
+Susan Vargas,RM12,Owners and Finance Queue,97%,4/24/2023,TRUE,1
+Jennifer Hunt,RM12,Owners and Finance Queue,86%,4/13/2023,TRUE,1
+Logan Richardson,RM12,Owners and Finance Queue,73%,4/6/2023,FALSE,0
+Michael Thomas,RM12,Owners and Finance Queue,100%,4/5/2023,TRUE,1
+Christian Mclaughlin,RM12,Owners and Finance Queue,83%,3/30/2023,TRUE,1
+Edward Brown,RM12,Owners and Finance Queue,92%,3/29/2023,TRUE,1
+Joseph Powell,RM12,Owners and Finance Queue,51%,3/24/2023,FALSE,0
+Roger Nguyen DVM,RM12,Owners and Finance Queue,88%,3/16/2023,TRUE,1
+Mark Evans,RM12,Owners and Finance Queue,83%,3/9/2023,TRUE,1
+Michael Hunter,RM12,Owners and Finance Queue,93%,3/9/2023,TRUE,1
+Jonathan Johnson,RM12,Owners and Finance Queue,92%,3/3/2023,TRUE,1
+Kevin Gregory,RM12,Owners and Finance Queue,74%,2/23/2023,FALSE,0
+Garrett Jordan,RM12,Owners and Finance Queue,97%,2/23/2023,TRUE,1
+Brett Perez,RM12,Owners and Finance Queue,59%,2/21/2023,FALSE,0
+Suzanne Andrews,RM12,Owners and Finance Queue,99%,2/20/2023,TRUE,1
+Adam Schmitt,RM12,Owners and Finance Queue,89%,2/16/2023,TRUE,1
+Jason Jones,RM12,Owners and Finance Queue,90%,2/9/2023,TRUE,1
+Jacob Best,RM12,Owners and Finance Queue,73%,2/7/2023,FALSE,0
+Kevin Thomas,RM12,Owners and Finance Queue,89%,1/26/2023,TRUE,1
+Michael Massey,RM12,Scripting Certification Assessment,84%,10/27/2023,TRUE,1
+Linda Sandoval,RM12,Scripting Certification Assessment,81%,10/24/2023,TRUE,1
+Michael Erickson,RM12,Scripting Certification Assessment,65%,10/19/2023,FALSE,0
+Jennifer Byrd,RM12,Scripting Certification Assessment,100%,10/16/2023,TRUE,1
+Kimberly Rocha,RM12,Scripting Certification Assessment,83%,10/13/2023,TRUE,1
+Steven Baker,RM12,Scripting Certification Assessment,98%,10/13/2023,TRUE,1
+Joyce Roach,RM12,Scripting Certification Assessment,83%,9/27/2023,TRUE,1
+Dr. Felicia Butler,RM12,Scripting Certification Assessment,50%,9/27/2023,FALSE,0
+Anne Boone,RM12,Scripting Certification Assessment,93%,9/26/2023,TRUE,1
+Daniel Watkins,RM12,Scripting Certification Assessment,39%,9/26/2023,FALSE,0
+Diana Gomez,RM12,Scripting Certification Assessment,42%,9/26/2023,FALSE,0
+Michael Holland,RM12,Scripting Certification Assessment,87%,9/26/2023,TRUE,1
+Jessica Ross,RM12,Scripting Certification Assessment,56%,9/26/2023,FALSE,0
+Megan Rogers DDS,RM12,Scripting Certification Assessment,94%,9/25/2023,TRUE,1
+Michael Walker,RM12,Scripting Certification Assessment,63%,9/21/2023,FALSE,0
+Karen Johnson,RM12,Scripting Certification Assessment,43%,9/21/2023,FALSE,0
+Derek Wilcox,RM12,Scripting Certification Assessment,56%,9/20/2023,FALSE,0
+Karla Koch,RM12,Scripting Certification Assessment,72%,9/20/2023,FALSE,0
+John French,RM12,Scripting Certification Assessment,37%,9/1/2023,FALSE,0
+Dr. Patricia Miller MD,RM12,Scripting Certification Assessment,80%,8/29/2023,TRUE,1
+Kenneth Ayala,RM12,Scripting Certification Assessment,64%,8/25/2023,FALSE,0
+Christopher Price,RM12,Scripting Certification Assessment,54%,8/24/2023,FALSE,0
+Jeremy Avery,RM12,Scripting Certification Assessment,81%,8/24/2023,TRUE,1
+Jessica Carr,RM12,Scripting Certification Assessment,79%,8/24/2023,TRUE,1
+Michelle Pruitt,RM12,Scripting Certification Assessment,13%,8/21/2023,FALSE,0
+Jenna Nelson,RM12,Scripting Certification Assessment,51%,8/21/2023,FALSE,0
+Gary Bautista,RM12,Scripting Certification Assessment,98%,8/18/2023,TRUE,1
+April Watts,RM12,Scripting Certification Assessment,91%,8/14/2023,TRUE,1
+Diane Miller,RM12,Scripting Certification Assessment,52%,7/28/2023,FALSE,0
+Miss Susan Mason,RM12,Scripting Certification Assessment,89%,7/25/2023,TRUE,1
+Veronica Rodriguez,RM12,Scripting Certification Assessment,98%,7/21/2023,TRUE,1
+Stephen Buck,RM12,Scripting Certification Assessment,92%,7/14/2023,TRUE,1
+James Ellis,RM12,Scripting Certification Assessment,76%,7/12/2023,FALSE,0
+David Young,RM12,Scripting Certification Assessment,76%,7/11/2023,FALSE,0
+Phillip Hawkins,RM12,Scripting Certification Assessment,58%,7/6/2023,FALSE,0
+Cynthia Walker,RM12,Scripting Certification Assessment,22%,7/5/2023,FALSE,0
+Gregory Yates,RM12,Scripting Certification Assessment,85%,6/23/2023,TRUE,1
+Daniel Banks,RM12,Scripting Certification Assessment,77%,6/22/2023,FALSE,0
+Kaylee Powell,RM12,Scripting Certification Assessment,74%,5/19/2023,FALSE,0
+Eric Marshall,RM12,Scripting Certification Assessment,79%,5/18/2023,FALSE,0
+Jose Duran,RM12,Scripting Certification Assessment,91%,5/18/2023,TRUE,1
+Nancy Washington,RM12,Scripting Certification Assessment,78%,5/16/2023,FALSE,0
+Mrs. Michelle Carter,RM12,Scripting Certification Assessment,75%,5/11/2023,FALSE,0
+Lawrence Gillespie,RM12,Scripting Certification Assessment,40%,5/10/2023,FALSE,0
+Joseph Robinson,RM12,Scripting Certification Assessment,80%,5/4/2023,TRUE,1
+Yolanda Stevens,RM12,Scripting Certification Assessment,80%,5/2/2023,TRUE,1
+Gabriel Fox,RM12,Scripting Certification Assessment,96%,4/17/2023,TRUE,1
+Charles Williams,RM12,Scripting Certification Assessment,71%,4/6/2023,FALSE,0
+Pamela Green,RM12,Scripting Certification Assessment,66%,4/5/2023,FALSE,0
+Julia Williams,RM12,Scripting Certification Assessment,89%,4/4/2023,TRUE,1
+Jody Dunn,RM12,Scripting Certification Assessment,74%,4/4/2023,FALSE,0
+Devin Webb,RM12,Scripting Certification Assessment,88%,3/17/2023,TRUE,1
+Emily Graves,RM12,Scripting Certification Assessment,61%,3/16/2023,FALSE,0
+Michael Hall,RM12,Scripting Certification Assessment,62%,3/13/2023,FALSE,0
+Troy Daniel,RM12,Scripting Certification Assessment,71%,3/10/2023,FALSE,0
+Darren Williams,RM12,RM Certification: Mobile Knowledge,88%,10/26/2023,TRUE,1
+Steven Jones,RM12,RM Certification: Mobile Knowledge,80%,10/23/2023,TRUE,1
+Brian Hill,RM12,RM Certification: Mobile Knowledge,100%,10/13/2023,TRUE,1
+Dr. Lisa Kennedy,RM12,RM Certification: Mobile Knowledge,82%,10/5/2023,TRUE,1
+Lisa Nguyen,RM12,RM Certification: Mobile Knowledge,94%,9/29/2023,TRUE,1
+Jennifer Kennedy,RM12,RM Certification: Mobile Knowledge,97%,9/27/2023,TRUE,1
+Jeffery Smith,RM12,RM Certification: Mobile Knowledge,94%,9/20/2023,TRUE,1
+Sara Barrett,RM12,RM Certification: Mobile Knowledge,80%,9/7/2023,TRUE,1
+Katrina Morales,RM12,RM Certification: Mobile Knowledge,85%,8/29/2023,TRUE,1
+Luis Keith,RM12,RM Certification: Mobile Knowledge,68%,8/29/2023,FALSE,0
+Taylor Guzman,RM12,RM Certification: Mobile Knowledge,88%,8/22/2023,TRUE,1
+Melissa Brock,RM12,RM Certification: Mobile Knowledge,97%,8/18/2023,TRUE,1
+Christina Wilson,RM12,RM Certification: Mobile Knowledge,77%,8/14/2023,FALSE,0
+Megan Wilson,RM12,RM Certification: Mobile Knowledge,82%,8/10/2023,TRUE,1
+Gina Peck,RM12,RM Certification: Mobile Knowledge,97%,8/10/2023,TRUE,1
+Keith Schwartz,RM12,RM Certification: Mobile Knowledge,80%,8/9/2023,TRUE,1
+Susan Jennings,RM12,RM Certification: Mobile Knowledge,91%,8/1/2023,TRUE,1
+Leslie Gutierrez,RM12,RM Certification: Mobile Knowledge,80%,7/31/2023,TRUE,1
+Sharon Klein,RM12,RM Certification: Mobile Knowledge,85%,7/31/2023,TRUE,1
+Barry Johnston,RM12,RM Certification: Mobile Knowledge,85%,7/31/2023,TRUE,1
+Kathryn Carrillo,RM12,RM Certification: Mobile Knowledge,82%,7/20/2023,TRUE,1
+Tiffany Myers,RM12,RM Certification: Mobile Knowledge,94%,7/17/2023,TRUE,1
+Kimberly Foster,RM12,RM Certification: Mobile Knowledge,88%,7/10/2023,TRUE,1
+Deborah Herrera,RM12,RM Certification: Mobile Knowledge,80%,7/7/2023,TRUE,1
+Joseph Sanders,RM12,RM Certification: Mobile Knowledge,94%,7/7/2023,TRUE,1
+Karen Vargas,RM12,RM Certification: Mobile Knowledge,97%,7/6/2023,TRUE,1
+Alan Johnson,RM12,RM Certification: Mobile Knowledge,80%,6/19/2023,TRUE,1
+Ashley Kent,RM12,RM Certification: Mobile Knowledge,94%,6/9/2023,TRUE,1
+Stephanie Gordon,RM12,RM Certification: Mobile Knowledge,85%,6/7/2023,TRUE,1
+Paul Flores,RM12,RM Certification: Mobile Knowledge,77%,6/5/2023,FALSE,0
+Kathleen Lee,RM12,RM Certification: Mobile Knowledge,85%,5/30/2023,TRUE,1
+Eileen White,RM12,RM Certification: Mobile Knowledge,85%,5/23/2023,TRUE,1
+Jessica Carter,RM12,RM Certification: Mobile Knowledge,82%,5/19/2023,TRUE,1
+Stephanie Wilson,RM12,RM Certification: Mobile Knowledge,85%,5/8/2023,TRUE,1
+Meredith Roberts,RM12,RM Certification: Mobile Knowledge,97%,4/19/2023,TRUE,1
+Beverly Brooks MD,RM12,RM Certification: Mobile Knowledge,85%,4/7/2023,TRUE,1
+Jacob Alexander,RM12,RM Certification: Mobile Knowledge,82%,4/6/2023,TRUE,1
+Jonathon Bates,RM12,RM Certification: Mobile Knowledge,80%,4/4/2023,TRUE,1
+Joseph Bright,RM12,RM Certification: Mobile Knowledge,80%,4/3/2023,TRUE,1
+Russell Russell,RM12,RM Certification: Mobile Knowledge,48%,3/30/2023,FALSE,0
+Jason Sullivan,RM12,RM Certification: Mobile Knowledge,100%,3/29/2023,TRUE,1
+Jonathan Palmer,RM12,RM Certification: Mobile Knowledge,80%,3/28/2023,TRUE,1
+Valerie Davidson,RM12,RM Certification: Mobile Knowledge,100%,3/28/2023,TRUE,1
+Sherri Wolfe,RM12,RM Certification: Mobile Knowledge,97%,3/27/2023,TRUE,1
+Jeffrey Summers,RM12,RM Certification: Mobile Knowledge,91%,3/24/2023,TRUE,1
+Nicholas Larson,RM12,RM Certification: Mobile Knowledge,94%,3/20/2023,TRUE,1
+Shelia Marsh,RM12,RM Certification: Mobile Knowledge,100%,3/20/2023,TRUE,1
+Ronald White,RM12,RM Certification: Mobile Knowledge,88%,3/15/2023,TRUE,1
+Teresa Castro,RM12,RM Certification: Mobile Knowledge,80%,3/15/2023,TRUE,1
+Martha Jackson,RM12,RM Certification: Mobile Knowledge,88%,3/2/2023,TRUE,1
+Sonia Lawson,RM12,RM Certification: Mobile Knowledge,94%,2/23/2023,TRUE,1
+Tracy Walls,RM12,RM Certification: Mobile Knowledge,94%,2/20/2023,TRUE,1
+Catherine Davis,RM12,RM Certification: Mobile Knowledge,82%,2/10/2023,TRUE,1
+Kathryn Reed,RM12,RM Certification: Mobile Knowledge,94%,2/7/2023,TRUE,1
+William Rowland,RM12,RM Certification: Mobile Knowledge,91%,1/27/2023,TRUE,1
+Paul Hawkins,RM12,RM Certification: Mobile Knowledge,91%,1/26/2023,TRUE,1
+Rebecca Patterson,RM12,RM Certification: Mobile Knowledge,94%,1/26/2023,TRUE,1
+Stacy Sanders,RM12,RM Certification: Mobile Knowledge,82%,1/24/2023,TRUE,1
+Michael Vaughn,RM12,RM Certification: Mobile Knowledge,91%,1/24/2023,TRUE,1
+Barbara Collier,RM12,RM Certification: Mobile Knowledge,88%,1/23/2023,TRUE,1
+Timothy Fields,RM12,RM Certification: Mobile Knowledge,88%,1/20/2023,TRUE,1
+Melissa Wagner,RM12,RM Certification: Mobile Knowledge,94%,1/18/2023,TRUE,1
+Melinda Howard,RM12,RM Certification: Mobile Knowledge,84%,1/16/2023,TRUE,1
+Whitney Stewart,RM12,RM Certification: Mobile Knowledge,83%,1/13/2023,TRUE,1
+Jose Sharp III,RM12,RM Certification: Mobile Knowledge,69%,1/13/2023,FALSE,0
+Dr. Alejandro Mason DDS,RM12,RM Certification: General Knowledge,66%,10/17/2023,FALSE,0
+Walter Anderson,RM12,RM Certification: General Knowledge,100%,10/9/2023,TRUE,1
+Meagan Shea,RM12,RM Certification: General Knowledge,94%,9/28/2023,TRUE,1
+Stacey Carter,RM12,RM Certification: General Knowledge,92%,9/11/2023,TRUE,1
+Andrew Haley,RM12,RM Certification: General Knowledge,83%,9/8/2023,TRUE,1
+Anthony Holt,RM12,RM Certification: General Knowledge,98%,9/8/2023,TRUE,1
+Billy Martinez,RM12,RM Certification: General Knowledge,88%,8/21/2023,TRUE,1
+James Monroe,RM12,RM Certification: General Knowledge,81%,8/2/2023,TRUE,1
+Shelby Wright,RM12,RM Certification: General Knowledge,92%,7/21/2023,TRUE,1
+Michael James,RM12,RM Certification: General Knowledge,87%,7/10/2023,TRUE,1
+Laura Perkins,RM12,RM Certification: General Knowledge,96%,7/7/2023,TRUE,1
+Joann Hernandez,RM12,RM Certification: General Knowledge,81%,7/6/2023,TRUE,1
+Terry Alexander,RM12,RM Certification: General Knowledge,81%,7/6/2023,TRUE,1
+Mary Le,RM12,RM Certification: General Knowledge,87%,6/29/2023,TRUE,1
+Thomas Curry,RM12,RM Certification: General Knowledge,90%,6/1/2023,TRUE,1
+Whitney Patel,RM12,RM Certification: General Knowledge,88%,5/26/2023,TRUE,1
+Nicole Novak,RM12,RM Certification: General Knowledge,83%,5/25/2023,TRUE,1
+Bradley Pace MD,RM12,RM Certification: General Knowledge,94%,5/19/2023,TRUE,1
+Anna Williams,RM12,RM Certification: General Knowledge,92%,5/19/2023,TRUE,1
+Terry Hunt,RM12,RM Certification: General Knowledge,75%,5/4/2023,FALSE,0
+Brenda Farmer,RM12,RM Certification: General Knowledge,98%,5/1/2023,TRUE,1
+Tracy Watson,RM12,RM Certification: General Knowledge,96%,4/25/2023,TRUE,1
+Andrew Taylor,RM12,RM Certification: General Knowledge,88%,4/19/2023,TRUE,1
+Alicia Davenport,RM12,RM Certification: General Knowledge,85%,4/13/2023,TRUE,1
+Alexandria Hill,RM12,RM Certification: General Knowledge,96%,4/11/2023,TRUE,1
+Joe Bell,RM12,RM Certification: General Knowledge,94%,4/10/2023,TRUE,1
+Rebecca Miller,RM12,RM Certification: General Knowledge,92%,4/10/2023,TRUE,1
+Frank Green,RM12,RM Certification: General Knowledge,90%,4/7/2023,TRUE,1
+Veronica Martinez,RM12,RM Certification: General Knowledge,83%,4/4/2023,TRUE,1
+Valerie Moore,RM12,RM Certification: General Knowledge,88%,4/3/2023,TRUE,1
+James Martinez,RM12,RM Certification: General Knowledge,96%,3/30/2023,TRUE,1
+Craig Castaneda,RM12,RM Certification: General Knowledge,92%,3/28/2023,TRUE,1
+Lynn Robinson,RM12,RM Certification: General Knowledge,83%,3/22/2023,TRUE,1
+Ashley Johnson,RM12,RM Certification: General Knowledge,88%,3/15/2023,TRUE,1
+Yvonne Carr,RM12,RM Certification: General Knowledge,94%,3/9/2023,TRUE,1
+Jeffrey Kennedy,RM12,RM Certification: General Knowledge,94%,3/9/2023,TRUE,1
+Nathan Clark,RM12,RM Certification: General Knowledge,94%,3/9/2023,TRUE,1
+Jonathan Arias,RM12,RM Certification: General Knowledge,87%,3/8/2023,TRUE,1
+Megan Carlson,RM12,RM Certification: General Knowledge,87%,3/8/2023,TRUE,1
+Samantha Walter,RM12,RM Certification: General Knowledge,87%,3/3/2023,TRUE,1
+Patrick Young,RM12,RM Certification: General Knowledge,87%,3/2/2023,TRUE,1
+Megan Sheppard,RM12,RM Certification: General Knowledge,88%,2/28/2023,TRUE,1
+Sarah Charles,RM12,RM Certification: General Knowledge,87%,2/24/2023,TRUE,1
+Caitlin Fernandez,RM12,RM Certification: General Knowledge,94%,2/22/2023,TRUE,1
+Linda Wilson,RM12,RM Certification: General Knowledge,94%,2/20/2023,TRUE,1
+Joseph Tucker,RM12,RM Certification: General Knowledge,100%,2/17/2023,TRUE,1
+Joseph Williams,RM12,RM Certification: General Knowledge,81%,2/17/2023,TRUE,1
+Andrew Cummings,RM12,RM Certification: General Knowledge,90%,2/17/2023,TRUE,1
+Franklin Long,RM12,RM Certification: General Knowledge,80%,2/16/2023,TRUE,1
+Amanda Moore,RM12,RM Certification: General Knowledge,92%,2/15/2023,TRUE,1
+Lori Lopez MD,RM12,RM Certification: General Knowledge,81%,2/15/2023,TRUE,1
+Cindy Hall,RM12,RM Certification: General Knowledge,80%,2/14/2023,TRUE,1
+Jon Robinson,RM12,RM Certification: General Knowledge,94%,2/13/2023,TRUE,1
+Devin Campos,RM12,RM Certification: General Knowledge,90%,2/9/2023,TRUE,1
+Scott Gomez,RM12,RM Certification: General Knowledge,90%,2/8/2023,TRUE,1
+Devon Cardenas,RM12,RM Certification: General Knowledge,96%,2/7/2023,TRUE,1
+Stacey Foster,RM12,RM Certification: General Knowledge,92%,2/6/2023,TRUE,1
+Tiffany Robinson,RM12,RM Certification: General Knowledge,94%,2/2/2023,TRUE,1
+Morgan Lopez,RM12,RM Certification: General Knowledge,83%,2/2/2023,TRUE,1
+Randall Nguyen Jr.,RM12,RM Certification: General Knowledge,89%,2/1/2023,TRUE,1
+Dr. Jessica Davis,RM12,RM Certification: General Knowledge,89%,1/30/2023,TRUE,1
+William Fields,RM12,RM Certification: General Knowledge,85%,1/27/2023,TRUE,1
+Regina Hill,RM12,RM Certification: General Knowledge,83%,1/27/2023,TRUE,1
+Robert Key,RM12,RM Certification: General Knowledge,92%,1/27/2023,TRUE,1
+Rebecca Clark,RM12,RM Certification: General Knowledge,82%,1/26/2023,TRUE,1
+Sean Davis,RM12,RM Certification: General Knowledge,85%,1/26/2023,TRUE,1
+James Walsh,RM12,RM Certification: General Knowledge,94%,1/26/2023,TRUE,1
+Jack Vargas,RM12,RM Certification: General Knowledge,92%,1/25/2023,TRUE,1
+Karen Meyers,RM12,RM Certification: General Knowledge,92%,1/25/2023,TRUE,1
+Anthony Ortega MD,RM12,RM Certification: General Knowledge,94%,1/25/2023,TRUE,1
+Troy Chaney,RM12,RM Certification: General Knowledge,100%,1/25/2023,TRUE,1
+Justin Thompson,RM12,RM Certification: General Knowledge,80%,1/25/2023,TRUE,1
+Lisa Lane,RM12,RM Certification: General Knowledge,96%,1/23/2023,TRUE,1
+Connie Lewis,RM12,RM Certification: General Knowledge,80%,1/23/2023,TRUE,1
+Amanda Kelly,RM12,RM Certification: General Knowledge,87%,1/23/2023,TRUE,1
+Tony Morton,RM12,RM Certification: General Knowledge,91%,1/23/2023,TRUE,1
+Chris Hill,RM12,RM Certification: General Knowledge,98%,1/18/2023,TRUE,1
+Katherine Holden,RM12,RM Certification: General Knowledge,95%,1/18/2023,TRUE,1
+Vanessa Moran,RM12,RM Certification: General Knowledge,96%,1/17/2023,TRUE,1
+Vickie Ward,RM12,RM Certification: General Knowledge,85%,1/17/2023,TRUE,1
+Mr. Robert Williams DVM,RM12,RM Certification: General Knowledge,95%,1/17/2023,TRUE,1
+Austin Walker,RM12,RM Certification: General Knowledge,88%,1/16/2023,TRUE,1
+Emily King,RM12,RM Certification: General Knowledge,91%,1/16/2023,TRUE,1
+Ryan Mitchell,RM12,RM Certification: General Knowledge,85%,1/13/2023,TRUE,1
+Michael Collins,RM12,RM Certification: General Knowledge,93%,1/13/2023,TRUE,1
+Keith Chavez,RM12,RM Certification: General Knowledge,91%,1/11/2023,TRUE,1
+Amber Atkins,RM12,RM Certification: Integrations Knowledge,76%,10/27/2023,FALSE,0
+Hannah Contreras,RM12,RM Certification: Integrations Knowledge,94%,10/19/2023,TRUE,1
+Mariah Lynn,RM12,RM Certification: Integrations Knowledge,94%,10/18/2023,TRUE,1
+Mallory Stewart,RM12,RM Certification: Integrations Knowledge,97%,10/18/2023,TRUE,1
+Janet Wong,RM12,RM Certification: Integrations Knowledge,91%,10/12/2023,TRUE,1
+Roberto Johnson,RM12,RM Certification: Integrations Knowledge,91%,9/29/2023,TRUE,1
+Michelle Barr,RM12,RM Certification: Integrations Knowledge,97%,9/29/2023,TRUE,1
+Christy Edwards,RM12,RM Certification: Integrations Knowledge,91%,9/22/2023,TRUE,1
+Matthew Lane,RM12,RM Certification: Integrations Knowledge,76%,9/22/2023,FALSE,0
+Daniel Anderson,RM12,RM Certification: Integrations Knowledge,85%,9/15/2023,TRUE,1
+Ashley Scott,RM12,RM Certification: Integrations Knowledge,85%,9/13/2023,TRUE,1
+Brandon White,RM12,RM Certification: Integrations Knowledge,85%,9/12/2023,TRUE,1
+Roy Mccoy,RM12,RM Certification: Integrations Knowledge,88%,9/11/2023,TRUE,1
+Lindsay Hopkins,RM12,RM Certification: Integrations Knowledge,100%,9/5/2023,TRUE,1
+John Schultz,RM12,RM Certification: Integrations Knowledge,91%,9/1/2023,TRUE,1
+Diana Jordan,RM12,RM Certification: Integrations Knowledge,73%,8/14/2023,FALSE,0
+Paul Butler,RM12,RM Certification: Integrations Knowledge,100%,8/3/2023,TRUE,1
+Victoria Dixon,RM12,RM Certification: Integrations Knowledge,97%,8/1/2023,TRUE,1
+Emily Lewis,RM12,RM Certification: Integrations Knowledge,94%,7/31/2023,TRUE,1
+Carrie Harris,RM12,RM Certification: Integrations Knowledge,94%,7/11/2023,TRUE,1
+Jorge Watkins,RM12,RM Certification: Integrations Knowledge,88%,7/11/2023,TRUE,1
+Andrew Holmes,RM12,RM Certification: Integrations Knowledge,85%,6/26/2023,TRUE,1
+John Knight,RM12,RM Certification: Integrations Knowledge,97%,6/13/2023,TRUE,1
+Jonathan Houston,RM12,RM Certification: Integrations Knowledge,91%,6/9/2023,TRUE,1
+Gregory Williams,RM12,RM Certification: Integrations Knowledge,94%,6/7/2023,TRUE,1
+Sharon Daniels,RM12,RM Certification: Integrations Knowledge,79%,5/25/2023,FALSE,0
+Michael Hancock,RM12,RM Certification: Integrations Knowledge,94%,5/24/2023,TRUE,1
+Dr. Lydia King,RM12,RM Certification: Integrations Knowledge,100%,5/19/2023,TRUE,1
+Larry Horn,RM12,RM Certification: Integrations Knowledge,85%,5/11/2023,TRUE,1
+Tom Wilson,RM12,RM Certification: Integrations Knowledge,100%,5/9/2023,TRUE,1
+Alison Wallace,RM12,RM Certification: Integrations Knowledge,94%,5/8/2023,TRUE,1
+Scott Peters,RM12,RM Certification: Integrations Knowledge,94%,4/28/2023,TRUE,1
+Dwayne Fernandez,RM12,RM Certification: Integrations Knowledge,91%,4/19/2023,TRUE,1
+Joseph Coleman,RM12,RM Certification: Integrations Knowledge,88%,4/19/2023,TRUE,1
+Michael Dyer,RM12,RM Certification: Integrations Knowledge,94%,4/14/2023,TRUE,1
+Vanessa Benitez,RM12,RM Certification: Integrations Knowledge,100%,4/13/2023,TRUE,1
+Keith Campbell,RM12,RM Certification: Integrations Knowledge,100%,4/13/2023,TRUE,1
+Tony Brown,RM12,RM Certification: Integrations Knowledge,97%,4/3/2023,TRUE,1
+Francisco Brooks,RM12,RM Certification: Integrations Knowledge,97%,3/29/2023,TRUE,1
+Debbie Yoder,RM12,RM Certification: Integrations Knowledge,85%,3/28/2023,TRUE,1
+Dale Robinson,RM12,RM Certification: Integrations Knowledge,94%,3/23/2023,TRUE,1
+Angela Dalton,RM12,RM Certification: Integrations Knowledge,97%,3/23/2023,TRUE,1
+Katherine Anderson,RM12,RM Certification: Integrations Knowledge,91%,3/22/2023,TRUE,1
+Brian Adams,RM12,RM Certification: Integrations Knowledge,85%,3/22/2023,TRUE,1
+Curtis Fleming,RM12,RM Certification: Integrations Knowledge,82%,3/20/2023,TRUE,1
+Tyler Benton,RM12,RM Certification: Integrations Knowledge,88%,3/17/2023,TRUE,1
+Shelby Weber,RM12,RM Certification: Integrations Knowledge,91%,3/2/2023,TRUE,1
+Walter Carter,RM12,RM Certification: Integrations Knowledge,85%,2/16/2023,TRUE,1
+Jennifer Johnson,RM12,RM Certification: Integrations Knowledge,91%,2/9/2023,TRUE,1
+Benjamin Mcclain,RM12,RM Certification: Integrations Knowledge,88%,2/9/2023,TRUE,1
+Andrew Howell,RM12,RM Certification: Integrations Knowledge,82%,2/6/2023,TRUE,1
+Matthew Olsen,RM12,RM Certification: Integrations Knowledge,85%,2/3/2023,TRUE,1
+Jeffrey Mays,RM12,RM Certification: Integrations Knowledge,94%,2/2/2023,TRUE,1
+Craig Kemp,RM12,RM Certification: Integrations Knowledge,88%,1/31/2023,TRUE,1
+Michael Calderon,RM12,RM Certification: Integrations Knowledge,97%,1/25/2023,TRUE,1
+Bonnie Mann,RM12,RM Certification: Technical Knowledge,88%,10/23/2023,TRUE,1
+Gregory Snyder,RM12,RM Certification: Technical Knowledge,85%,10/18/2023,TRUE,1
+Miranda Hamilton,RM12,RM Certification: Technical Knowledge,88%,10/5/2023,TRUE,1
+Todd Williams,RM12,RM Certification: Technical Knowledge,88%,10/3/2023,TRUE,1
+Daniel Keller,RM12,RM Certification: Technical Knowledge,92%,10/2/2023,TRUE,1
+Susan Benson,RM12,RM Certification: Technical Knowledge,85%,9/28/2023,TRUE,1
+Donald Burgess,RM12,RM Certification: Technical Knowledge,85%,9/25/2023,TRUE,1
+Darlene Shaw,RM12,RM Certification: Technical Knowledge,70%,9/20/2023,FALSE,0
+Erin Copeland,RM12,RM Certification: Technical Knowledge,81%,9/20/2023,TRUE,1
+Shannon Kelley,RM12,RM Certification: Technical Knowledge,92%,9/15/2023,TRUE,1
+Tracey Pierce,RM12,RM Certification: Technical Knowledge,88%,9/14/2023,TRUE,1
+Crystal Hamilton,RM12,RM Certification: Technical Knowledge,92%,8/30/2023,TRUE,1
+Clayton Strong,RM12,RM Certification: Technical Knowledge,96%,8/23/2023,TRUE,1
+Megan Hawkins,RM12,RM Certification: Technical Knowledge,88%,8/22/2023,TRUE,1
+Nicole Sanchez,RM12,RM Certification: Technical Knowledge,81%,8/17/2023,TRUE,1
+Shane Hamilton,RM12,RM Certification: Technical Knowledge,81%,8/9/2023,TRUE,1
+Miguel Moore,RM12,RM Certification: Technical Knowledge,92%,7/28/2023,TRUE,1
+Mrs. Frances King,RM12,RM Certification: Technical Knowledge,96%,6/27/2023,TRUE,1
+Cory Chambers,RM12,RM Certification: Technical Knowledge,92%,6/21/2023,TRUE,1
+Kyle Sandoval,RM12,RM Certification: Technical Knowledge,88%,6/21/2023,TRUE,1
+Stephanie Moore,RM12,RM Certification: Technical Knowledge,85%,6/9/2023,TRUE,1
+Jennifer Butler,RM12,RM Certification: Technical Knowledge,100%,6/7/2023,TRUE,1
+Danny Torres,RM12,RM Certification: Technical Knowledge,100%,5/24/2023,TRUE,1
+Evan Rivera,RM12,RM Certification: Technical Knowledge,81%,5/23/2023,TRUE,1
+Michelle Lucas,RM12,RM Certification: Technical Knowledge,96%,5/22/2023,TRUE,1
+Howard Mejia,RM12,RM Certification: Technical Knowledge,92%,5/19/2023,TRUE,1
+Katie Osborne,RM12,RM Certification: Technical Knowledge,81%,5/18/2023,TRUE,1
+Pamela Hamilton,RM12,RM Certification: Technical Knowledge,96%,5/18/2023,TRUE,1
+Ashley Lopez,RM12,RM Certification: Technical Knowledge,92%,5/16/2023,TRUE,1
+Mary Shea,RM12,RM Certification: Technical Knowledge,85%,5/9/2023,TRUE,1
+Nicholas Brown,RM12,RM Certification: Technical Knowledge,92%,5/5/2023,TRUE,1
+Jill Murray,RM12,RM Certification: Technical Knowledge,92%,4/28/2023,TRUE,1
+Kyle Miller,RM12,RM Certification: Technical Knowledge,88%,4/26/2023,TRUE,1
+Todd Hurst,RM12,RM Certification: Technical Knowledge,96%,4/25/2023,TRUE,1
+Kathryn Clark,RM12,RM Certification: Technical Knowledge,100%,4/25/2023,TRUE,1
+Jessica Esparza,RM12,RM Certification: Technical Knowledge,96%,4/25/2023,TRUE,1
+Megan Gomez,RM12,RM Certification: Technical Knowledge,100%,4/21/2023,TRUE,1
+Tracy Wood,RM12,RM Certification: Technical Knowledge,88%,4/21/2023,TRUE,1
+Debra Reynolds,RM12,RM Certification: Technical Knowledge,100%,4/21/2023,TRUE,1
+Joshua Hill,RM12,RM Certification: Technical Knowledge,88%,4/11/2023,TRUE,1
+Lindsay Fischer,RM12,RM Certification: Technical Knowledge,88%,4/10/2023,TRUE,1
+Jacob Page,RM12,RM Certification: Technical Knowledge,100%,4/4/2023,TRUE,1
+Robert Martinez,RM12,RM Certification: Technical Knowledge,85%,3/27/2023,TRUE,1
+Mercedes Miller,RM12,RM Certification: Technical Knowledge,85%,3/16/2023,TRUE,1
+Bradley Smith,RM12,RM Certification: Technical Knowledge,100%,3/9/2023,TRUE,1
+Robert Davis,RM12,RM Certification: Technical Knowledge,100%,3/9/2023,TRUE,1
+Rebecca Flores,RM12,RM Certification: Technical Knowledge,85%,3/7/2023,TRUE,1
+Morgan Gomez,RM12,RM Certification: Technical Knowledge,88%,3/6/2023,TRUE,1
+Jared Morris,RM12,RM Certification: Technical Knowledge,92%,2/23/2023,TRUE,1
+Jonathan Morgan,RM12,RM Certification: Technical Knowledge,81%,2/22/2023,TRUE,1
+Antonio Wells,RM12,RM Certification: Technical Knowledge,92%,2/21/2023,TRUE,1
+Pamela Anderson,RM12,RM Certification: Technical Knowledge,92%,2/20/2023,TRUE,1
+Shannon Marshall,RM12,RM Certification: Technical Knowledge,92%,2/20/2023,TRUE,1
+Alison Joseph,RM12,RM Certification: Technical Knowledge,100%,2/17/2023,TRUE,1
+Misty Walsh,RM12,RM Certification: Technical Knowledge,92%,2/17/2023,TRUE,1
+Chelsea Newman,RM12,RM Certification: Technical Knowledge,92%,2/9/2023,TRUE,1
+Rebecca Hartman,RM12,RM Certification: Technical Knowledge,96%,2/3/2023,TRUE,1
+Leslie Frederick,RM12,RM Certification: Technical Knowledge,92%,2/2/2023,TRUE,1
+Tanner Cook DDS,RM12,RM Certification: Technical Knowledge,96%,2/2/2023,TRUE,1
+Jeremy Russell,RM12,RM Certification: Technical Knowledge,96%,1/30/2023,TRUE,1
+Ashley James,RM12,RM Certification: Technical Knowledge,92%,1/30/2023,TRUE,1
+Jennifer Armstrong,RM12,RM Certification: Technical Knowledge,81%,1/27/2023,TRUE,1
+Tammy Velasquez,RM12,RM Certification: Technical Knowledge,88%,1/27/2023,TRUE,1
+Diane Gonzalez,RM12,RM Certification: Technical Knowledge,96%,1/27/2023,TRUE,1
+Scott Moore,RM12,RM Certification: Technical Knowledge,96%,1/26/2023,TRUE,1
+Jacqueline Morton,RM12,RM Certification: Technical Knowledge,92%,1/26/2023,TRUE,1
+Willie Marshall DDS,RM12,RM Certification: Technical Knowledge,85%,1/24/2023,TRUE,1
+Nicole Evans,RM12,RM Certification: Technical Knowledge,81%,1/24/2023,TRUE,1
+Jose Webb,RM12,RM Certification: Technical Knowledge,70%,1/20/2023,FALSE,0
+Charles Simmons,RM12,RM Certification: Technical Knowledge,92%,1/20/2023,TRUE,1
+Thomas Scott,RM12,RM Certification: Technical Knowledge,81%,1/20/2023,TRUE,1
+Jennifer Neal,RM12,RM Certification: Technical Knowledge,92%,1/20/2023,TRUE,1
+Manuel Richmond,RM12,RM Certification: Technical Knowledge,88%,1/19/2023,TRUE,1
+Justin Bates DDS,RM12,RM Certification: Technical Knowledge,88%,1/18/2023,TRUE,1
+Elizabeth Duffy,RM12,RM Certification: Technical Knowledge,92%,1/17/2023,TRUE,1
+Mary Hodge,RM12,RM Certification: Technical Knowledge,92%,1/17/2023,TRUE,1
+Mary Carter,RM12,RM Certification: Technical Knowledge,82%,1/16/2023,TRUE,1
+Tiffany Martin,RM12,RM Certification: Technical Knowledge,80%,1/16/2023,TRUE,1
+Charles Hernandez,RM12,RM Certification: Technical Knowledge,85%,1/13/2023,TRUE,1
+Tammy Robinson,RM12,RM Certification: Technical Knowledge,85%,1/11/2023,TRUE,1
+Patricia Lewis,RM12,RM Certification: Technical Knowledge,100%,1/11/2023,TRUE,1
+Danielle Payne,RM12,RM Certification: Technical Knowledge,100%,1/10/2023,TRUE,1
+Mark Davis,RM12,FBM Certification Assessment,94%,10/24/2023,TRUE,1
+Jessica Ibarra,RM12,FBM Certification Assessment,98%,10/23/2023,TRUE,1
+Daniel Garcia,RM12,FBM Certification Assessment,92%,10/23/2023,TRUE,1
+Scott Collins,RM12,FBM Certification Assessment,100%,10/23/2023,TRUE,1
+Kathy Vance,RM12,FBM Certification Assessment,86%,10/19/2023,TRUE,1
+Christine Gibson,RM12,FBM Certification Assessment,96%,10/19/2023,TRUE,1
+Sarah Kim,RM12,FBM Certification Assessment,83%,10/17/2023,TRUE,1
+Jennifer Peterson,RM12,FBM Certification Assessment,92%,9/28/2023,TRUE,1
+Robert Smith,RM12,FBM Certification Assessment,80%,9/28/2023,TRUE,1
+Kelly Wilkerson,RM12,FBM Certification Assessment,91%,9/22/2023,TRUE,1
+Lori Rodriguez,RM12,FBM Certification Assessment,91%,9/21/2023,TRUE,1
+Samuel Evans,RM12,FBM Certification Assessment,100%,9/21/2023,TRUE,1
+Walter Olson,RM12,FBM Certification Assessment,90%,9/21/2023,TRUE,1
+James Rodriguez,RM12,FBM Certification Assessment,67%,9/20/2023,FALSE,0
+Heather Franklin,RMX,FBM Certification Assessment,99%,9/20/2023,TRUE,1
+Dana Myers,RM12,FBM Certification Assessment,90%,9/13/2023,TRUE,1
+Gerald Allen,RM12,FBM Certification Assessment,87%,9/11/2023,TRUE,1
+Oscar Daugherty,RM12,FBM Certification Assessment,95%,9/7/2023,TRUE,1
+Larry Romero,RM12,FBM Certification Assessment,86%,8/25/2023,TRUE,1
+Garrett Jones,RM12,FBM Certification Assessment,89%,8/25/2023,TRUE,1
+Michael Tucker,RM12,FBM Certification Assessment,95%,8/21/2023,TRUE,1
+David Brown,RM12,FBM Certification Assessment,86%,8/3/2023,TRUE,1
+Sara Davis,RM12,FBM Certification Assessment,98%,8/2/2023,TRUE,1
+Matthew Harris,RM12,FBM Certification Assessment,99%,7/31/2023,TRUE,1
+Alan Williams II,RM12,FBM Certification Assessment,90%,7/31/2023,TRUE,1
+Mitchell Harris,RM12,FBM Certification Assessment,92%,7/27/2023,TRUE,1
+Evan Medina,RM12,FBM Certification Assessment,90%,7/26/2023,TRUE,1
+Willie Chavez,RM12,FBM Certification Assessment,79%,7/13/2023,FALSE,0
+Alexander Pearson II,RM12,FBM Certification Assessment,89%,6/22/2023,TRUE,1
+Rodney Lambert,RM12,FBM Certification Assessment,84%,6/8/2023,TRUE,1
+Marcus Walsh,RM12,FBM Certification Assessment,97%,6/8/2023,TRUE,1
+Logan Johnson,RM12,FBM Certification Assessment,97%,5/25/2023,TRUE,1
+Rachel Bush,RM12,FBM Certification Assessment,98%,5/8/2023,TRUE,1
+Troy Robinson,RM12,FBM Certification Assessment,87%,4/20/2023,TRUE,1
+Justin Miller,RM12,FBM Certification Assessment,89%,4/20/2023,TRUE,1
+Teresa Zamora,RM12,FBM Certification Assessment,94%,4/6/2023,TRUE,1
+Tiffany Cummings,RM12,FBM Certification Assessment,89%,3/30/2023,TRUE,1
+Tara Smith,RM12,FBM Certification Assessment,93%,3/23/2023,TRUE,1
+Valerie Weaver,RM12,FBM Certification Assessment,95%,3/23/2023,TRUE,1
+Pamela Camacho,RM12,FBM Certification Assessment,81%,3/16/2023,TRUE,1
+Morgan Hernandez,RM12,FBM Certification Assessment,90%,3/16/2023,TRUE,1
+Michael Serrano,RM12,FBM Certification Assessment,96%,3/16/2023,TRUE,1
+Nicholas Valencia Jr.,RM12,FBM Certification Assessment,89%,3/9/2023,TRUE,1
+Vanessa Andrews,RM12,FBM Certification Assessment,100%,3/9/2023,TRUE,1
+Jeremiah Bowman,RM12,FBM Certification Assessment,90%,2/23/2023,TRUE,1
+James Aguilar,RM12,FBM Certification Assessment,80%,2/23/2023,TRUE,1
+Paige Larson,RM12,FBM Certification Assessment,89%,2/23/2023,TRUE,1
+Paul Porter,RM12,FBM Certification Assessment,92%,2/16/2023,TRUE,1
+Michael Nichols MD,RM12,FBM Certification Assessment,92%,2/16/2023,TRUE,1
+Donald Anderson,RM12,FBM Certification Assessment,96%,2/14/2023,TRUE,1
+Whitney Pope,RM12,FBM Certification Assessment,87%,2/9/2023,TRUE,1
+Colton Quinn,RM12,FBM Certification Assessment,70%,1/26/2023,FALSE,0
+Mrs. Amanda Gordon,RM12,FBM Certification Assessment,95%,1/26/2023,TRUE,1
+Matthew Bennett,RM12,FBM Certification Assessment,97%,1/19/2023,TRUE,1
+Dominic Medina,RM12,FBM Certification Assessment,41%,1/19/2023,FALSE,0
+Samantha Logan,RM12,FBM Certification Assessment,90%,1/19/2023,TRUE,1
