@@ -8,6 +8,8 @@ All stats are stored in a secure SQL database that I can not grant access to for
 
 You can access my virtual environment (my_env) or install all requirements using ~ pip install -r requirements.txt
 
+*Connect to virtual environment: my_env\Scripts\activate.bat
+
 
 1. Created virtual environment and installed all packages utilized in jupyter, also created requirements file. You can access my virtual environment (my_env) or install all requirements using ~ pip install -r requirements.txt
 2. Loaded data from Rent Manager database used to track employee data. Completed SQL request from database utilizing inner joins to gather employee information. Created three sepearate CSV files. 
