@@ -1,77 +1,77 @@
 Employee ID,Employee,Coach,Role,Department,Date of Hire,Date of Termination,Turnover Risk,Termination,QNH Termination,Months of Employment,Time Bucket
-58,Madison Rollins,Don Paquette,ProServWebD/D,Pro Services,2019-04-22,2023-07-21,Low Risk,,,50,48-60 months
-220,Roy Jones,Don Paquette,Social Media,Marketing,2019-12-02,2023-09-29,Low Risk,,,45,36-48 months
-253,Kelsey Mitchell,Morgan Walker,ProServWebD/D ,Pro Services,2018-12-17,2023-08-31,Low Risk,,,56,48-60 months
-328,Maria Howell,Don Paquette,CaseAnalysisMgr ,Bus Analysis,2015-06-08,2023-05-12,Low Risk,,,95,60-inf months
-369,Melanie Sanchez,,LrngMgmtCoord ,Training,2015-03-30,2023-02-24,Low Risk,Voluntary,,94,60-inf months
-384,Melissa Brock,,DevExpress ,Dev/QA-RM EXP,2018-05-14,2023-05-24,Low Risk,Voluntary,,60,48-60 months
-459,Fernando Hill,Jennifer Kephart,DevQManage ,Dev/QA-QManage,2019-05-28,2023-01-20,Low Risk,Voluntary,,43,36-48 months
-467,Patrick Walter,,IT SuppSpec ,IT Services,2015-11-02,2023-04-28,Low Risk,Voluntary,,89,60-inf months
-512,Curtis Carter,Don Paquette,DevT&R II ,Dev Tools & Release,2013-01-07,2023-04-25,Low Risk,Voluntary,,123,60-inf months
-532,Michael Garcia,Morgan Walker,DevExpress ,Dev/QA-RM EXP,2020-05-26,2023-07-07,Low Risk,Voluntary,,37,36-48 months
-556,Gary Ball,Jennifer Kephart,CDEV/Copy ,Marketing,2020-06-15,2023-07-28,Low Risk,,,37,36-48 months
-601,Tina Hodge,Don Paquette,DevExpress ,Dev/QA-RM EXP,2020-08-24,2023-08-25,Low Risk,,,36,24-36 months
-603,Alejandro Levy,Don Paquette,DevExpress ,Dev/QA-RM EXP,2020-08-24,2023-01-26,Low Risk,Voluntary,,29,24-36 months
-637,Cesar Craig,Jennifer Kephart,DevInnov Co,Dev/QA-WD Innov,2020-12-21,2023-08-08,Low Risk,,,31,24-36 months
-644,Ronald Lee,Morgan Walker,QA Express Co,Dev/QA-RM EXP,2021-01-04,2023-08-11,Low Risk,,,31,24-36 months
-669,Brandon Anderson,Jennifer Kephart,DevAPI ,Dev/QA-API,2021-05-10,2023-01-13,Low Risk,Voluntary,,20,12-24 months
-700,Patricia Bennett,Jennifer Kephart,ProServDev I ,Pro Services,2021-08-16,2023-01-06,Low Risk,Voluntary,,16,12-24 months
-716,Kevin Howe,Jennifer Kephart,General ,Product Support,2021-11-01,2023-02-22,Low Risk,Involuntary,,15,12-24 months
-725,Jennifer Williams,Don Paquette,Finance ,Product Support,2021-12-20,2023-03-07,Some Risk,Voluntary,,14,12-24 months
-728,Christopher Lindsey,Jennifer Kephart,QA qManage co,Dev/QA-QManage,2022-01-04,2023-01-06,Low Risk,,,12,6-12 months
-730,Kristin Wheeler,Morgan Walker,Finance ,Product Support,2022-01-04,2023-08-25,Low Risk,,,19,12-24 months
-759,Leonard Barrera,Jennifer Kephart,DevAPI Co,Dev/QA-API,2022-05-02,2023-05-26,High Risk,,,12,6-12 months
-764,Justin Chang,Morgan Walker,Systems ,Systems,2022-05-16,2023-10-17,Some Risk,Voluntary,,17,12-24 months
-780,Jacqueline Sharp,Jennifer Kephart,QA Express Co,Dev/QA-RM EXP,2022-05-23,2023-08-11,Low Risk,,,14,12-24 months
-788,Christine Brewer,Don Paquette,Finance ,Product Support,2022-06-06,2023-01-16,Some Risk,Voluntary,,7,6-12 months
-791,Jesse Harrison,Don Paquette,DevQManageCoop ,Dev/QA-QManage,2022-06-06,2023-01-16,Low Risk,,,7,6-12 months
-796,Mary Hernandez,Jennifer Kephart,Sales ,Sales,2022-06-13,2023-09-01,High Risk,,,14,12-24 months
-806,Ana Smith,Morgan Walker,ProServ I ,Pro Services,2022-07-11,2023-01-27,Low Risk,Voluntary,,6,0-6 months
-811,Sarah Carlson,Morgan Walker,Tech ,Product Support,2022-08-01,2023-01-18,Low Risk,Voluntary,-30.0,5,0-6 months
-815,Heather Tran,Don Paquette,Tech ,Product Support,2022-08-08,2023-07-25,Low Risk,,,11,6-12 months
-817,Christopher Cunningham,Jennifer Kephart,QA API Co,Dev/QA-API,2022-08-15,2023-08-11,Low Risk,,,11,6-12 months
-818,Joshua Hayes,Jennifer Kephart,QA API Co,Dev/QA-API,2022-08-15,2023-08-09,Low Risk,,,11,6-12 months
-819,Jeffrey Green,Jennifer Kephart,QA Express Co,Dev/QA-RM EXP,2022-08-15,2023-08-11,Low Risk,,,11,6-12 months
-820,William Callahan,Jennifer Kephart,QA Express Co,Dev/QA-RM EXP,2022-08-15,2023-08-09,Low Risk,,,11,6-12 months
-848,Charles Lowery,Jennifer Kephart,Finance ,Product Support,2022-10-17,2023-06-19,Low Risk,Voluntary,-30.0,8,6-12 months
-852,Christine Goodman,Morgan Walker,Tech ,Product Support,2022-11-14,2023-01-13,Low Risk,Voluntary,,1,0-6 months
-853,Steven Sullivan,Morgan Walker,Finance ,Product Support,2022-11-14,2023-02-10,Low Risk,Voluntary,,2,0-6 months
-854,Christopher Brooks,Don Paquette,DevPortal ,Dev/QA-Portal,2022-11-21,2023-06-30,Low Risk,Voluntary,-30.0,7,6-12 months
-855,Julie Sharp,Jennifer Kephart,Web ,Product Support,2022-11-28,2023-02-20,Low Risk,,,2,0-6 months
-858,Angela Mcdonald,Jennifer Kephart,Scripting ,Product Support,2022-12-05,2023-01-05,Low Risk,Voluntary,-30.0,1,0-6 months
-866,Sherry Burns,Jennifer Kephart,Finance ,Product Support,2023-01-03,2023-01-03,Low Risk,,,0,
-867,Megan Ramirez,Don Paquette,Systems ,Systems,2023-01-09,2023-01-09,Low Risk,,,0,
-870,Steven Singh,Jennifer Kephart,DevQManage ,Dev/QA-QManage,2023-01-03,2023-02-01,Low Risk,Voluntary,-30.0,0,
-872,Mary Johnson,Don Paquette,Sales Intern ,Sales,2023-01-09,2023-04-28,Low Risk,,,3,0-6 months
-882,Amber Carr,Don Paquette,Finance ,Product Support,2023-01-23,2023-09-18,Low Risk,,,7,6-12 months
-883,Katherine Weaver,Morgan Walker,DevAPI ,Dev/QA-API,2023-01-30,2023-09-08,Low Risk,Voluntary,-30.0,7,6-12 months
-884,Debra Patel,Morgan Walker,Tech ,Product Support,2023-01-30,2023-03-30,Low Risk,Voluntary,,1,0-6 months
-888,Barbara Snyder,Jennifer Kephart,Finance ,Product Support,2023-02-06,2023-03-06,Low Risk,Voluntary,-30.0,0,
-892,Mrs. Debra Schroeder,Morgan Walker,General ,Product Support,2023-02-20,2023-11-22,Some Risk,Voluntary,-30.0,9,6-12 months
-893,Carolyn Evans,Jennifer Kephart,Mobile,Product Support,2023-02-20,2023-04-04,Low Risk,,,1,0-6 months
-896,John Gutierrez,Don Paquette,Systems ,Systems,2023-03-13,2023-11-22,Low Risk,Voluntary,-30.0,8,6-12 months
-897,Susan Green,Morgan Walker,Tech ,Product Support,2023-03-27,2023-04-12,Low Risk,Voluntary,-30.0,0,
-901,Jesus Davenport,Morgan Walker,DevMobile11,Dev/QA-Mobile,2023-04-17,2023-11-10,Low Risk,Voluntary,-30.0,6,0-6 months
-907,Sean Gilmore,Morgan Walker,Finance ,Product Support,2023-05-01,2023-05-17,Low Risk,Voluntary,-30.0,0,
-914,Glenn Daniels,Morgan Walker,QA Express Co,Dev/QA-RM EXP,2023-05-01,2023-08-18,Low Risk,,,3,0-6 months
-917,Monica Collins,Don Paquette,DevExpress II,Dev/QA-RM EXP,2023-05-08,2023-08-24,High Risk,,,3,0-6 months
-918,Rebecca Carpenter MD,Don Paquette,Dev Express III,Dev/QA-RM EXP,2023-05-08,2023-07-07,Low Risk,Voluntary,-30.0,1,0-6 months
-920,Jillian Williams,Don Paquette,QA API Co,Dev/QA-API,2023-05-08,2023-08-09,Low Risk,,,3,0-6 months
-921,Michael Archer,Don Paquette,DevQManageCoop ,Dev/QA-QManage,2023-05-08,2023-08-04,Low Risk,,,2,0-6 months
-922,Hannah Rubio,Don Paquette,QA RM12 Coop,RM12,2023-05-08,2023-08-11,Low Risk,,,3,0-6 months
-926,Joshua Johnson,Jennifer Kephart,Marketing Co,Marketing,2023-05-15,2023-08-11,Low Risk,,,2,0-6 months
-927,Malik Simpson,Jennifer Kephart,Sales Intern,Sales,2023-05-15,2023-08-09,Low Risk,,,2,0-6 months
-928,Lorraine Young,Jennifer Kephart,DevQManageCo,Dev/QA-QManage,2023-05-15,2023-08-04,Low Risk,,,2,0-6 months
-929,Matthew Castaneda,Jennifer Kephart,Api Serv Dev Co,API Services,2023-05-15,2023-08-16,Low Risk,,,3,0-6 months
-933,Eric Walsh,Jennifer Kephart,QA Tools Co,Dev Tools & Release,2023-05-15,2023-08-11,Low Risk,,,2,0-6 months
-935,Sherry Johnson,Morgan Walker,DevExps Co,Dev/QA-RM EXP,2023-05-22,2023-08-11,Low Risk,,,2,0-6 months
-936,John Scott,Morgan Walker,QA API Co,Dev/QA-API,2023-05-22,2023-08-11,Low Risk,,,2,0-6 months
-938,Samuel Ho,Morgan Walker,Tech ,Product Support,2023-05-22,2023-07-28,Low Risk,Voluntary,-30.0,2,0-6 months
-943,Joyce Burgess,Don Paquette,QA Portal Co,Dev/QA-Portal,2023-05-30,2023-08-17,Low Risk,,,2,0-6 months
-945,Joshua Dixon,Jennifer Kephart,Finance ,Product Support,2023-06-05,2023-06-27,Low Risk,Voluntary,-30.0,0,
-952,Paul Harris,Morgan Walker,Marketing Co,Marketing,2023-06-12,2023-09-01,Low Risk,,,2,0-6 months
-953,Anthony Hanson,Jennifer Kephart,Tech ,Product Support,2023-06-19,2023-09-01,Low Risk,,-30.0,2,0-6 months
-957,Arthur Peterson,Morgan Walker,Scripting ,Product Support,2023-07-10,2023-09-15,Low Risk,,-30.0,2,0-6 months
-960,Casey Bass,Don Paquette,Finance ,Product Support,2023-07-24,2023-08-14,Some Risk,,-30.0,0,
-971,Daniel Leonard Jr.,Morgan Walker,Scripting ,Product Support,2023-08-14,2023-10-17,Low Risk,Voluntary,-30.0,2,0-6 months
-986,Adam Frazier,Morgan Walker,Tech ,Product Support,2023-09-11,2023-09-29,Low Risk,,-30.0,0,
+58,Tina Montgomery,Don Paquette,ProServWebD/D,Pro Services,2019-04-22,2023-07-21,Low Risk,,,50,48-60 months
+220,Dr. Amy Dalton,Don Paquette,Social Media,Marketing,2019-12-02,2023-09-29,Low Risk,,,45,36-48 months
+253,Mark Miller,Morgan Walker,ProServWebD/D ,Pro Services,2018-12-17,2023-08-31,Low Risk,,,56,48-60 months
+328,Marilyn Levine,Don Paquette,CaseAnalysisMgr ,Bus Analysis,2015-06-08,2023-05-12,Low Risk,,,95,60-inf months
+369,Joseph Harris,,LrngMgmtCoord ,Training,2015-03-30,2023-02-24,Low Risk,Voluntary,,94,60-inf months
+384,Tina Trujillo,,DevExpress ,Dev/QA-RM EXP,2018-05-14,2023-05-24,Low Risk,Voluntary,,60,48-60 months
+459,Leah Wilson,Jennifer Kephart,DevQManage ,Dev/QA-QManage,2019-05-28,2023-01-20,Low Risk,Voluntary,,43,36-48 months
+467,Zachary Rhodes,,IT SuppSpec ,IT Services,2015-11-02,2023-04-28,Low Risk,Voluntary,,89,60-inf months
+512,Jasmine Castro,Don Paquette,DevT&R II ,Dev Tools & Release,2013-01-07,2023-04-25,Low Risk,Voluntary,,123,60-inf months
+532,Edward Shaw,Morgan Walker,DevExpress ,Dev/QA-RM EXP,2020-05-26,2023-07-07,Low Risk,Voluntary,,37,36-48 months
+556,Virginia Knight,Jennifer Kephart,CDEV/Copy ,Marketing,2020-06-15,2023-07-28,Low Risk,,,37,36-48 months
+601,Sheila Thompson,Don Paquette,DevExpress ,Dev/QA-RM EXP,2020-08-24,2023-08-25,Low Risk,,,36,24-36 months
+603,Kelly Wilson,Don Paquette,DevExpress ,Dev/QA-RM EXP,2020-08-24,2023-01-26,Low Risk,Voluntary,,29,24-36 months
+637,Benjamin Knight,Jennifer Kephart,DevInnov Co,Dev/QA-WD Innov,2020-12-21,2023-08-08,Low Risk,,,31,24-36 months
+644,Cathy Collier,Morgan Walker,QA Express Co,Dev/QA-RM EXP,2021-01-04,2023-08-11,Low Risk,,,31,24-36 months
+669,Robert Stout,Jennifer Kephart,DevAPI ,Dev/QA-API,2021-05-10,2023-01-13,Low Risk,Voluntary,,20,12-24 months
+700,Carol Johns,Jennifer Kephart,ProServDev I ,Pro Services,2021-08-16,2023-01-06,Low Risk,Voluntary,,16,12-24 months
+716,Rodney Hill,Jennifer Kephart,General ,Product Support,2021-11-01,2023-02-22,Low Risk,Involuntary,,15,12-24 months
+725,Pamela Dean,Don Paquette,Finance ,Product Support,2021-12-20,2023-03-07,Some Risk,Voluntary,,14,12-24 months
+728,Brittany Vaughn,Jennifer Kephart,QA qManage co,Dev/QA-QManage,2022-01-04,2023-01-06,Low Risk,,,12,6-12 months
+730,Michael Barry,Morgan Walker,Finance ,Product Support,2022-01-04,2023-08-25,Low Risk,,,19,12-24 months
+759,Shannon Hart,Jennifer Kephart,DevAPI Co,Dev/QA-API,2022-05-02,2023-05-26,High Risk,,,12,6-12 months
+764,Luis Sanchez,Morgan Walker,Systems ,Systems,2022-05-16,2023-10-17,Some Risk,Voluntary,,17,12-24 months
+780,Sara Ballard,Jennifer Kephart,QA Express Co,Dev/QA-RM EXP,2022-05-23,2023-08-11,Low Risk,,,14,12-24 months
+788,Gregory Riley,Don Paquette,Finance ,Product Support,2022-06-06,2023-01-16,Some Risk,Voluntary,,7,6-12 months
+791,Wesley Ward,Don Paquette,DevQManageCoop ,Dev/QA-QManage,2022-06-06,2023-01-16,Low Risk,,,7,6-12 months
+796,Jenna Ford,Jennifer Kephart,Sales ,Sales,2022-06-13,2023-09-01,High Risk,,,14,12-24 months
+806,William Briggs,Morgan Walker,ProServ I ,Pro Services,2022-07-11,2023-01-27,Low Risk,Voluntary,,6,0-6 months
+811,Mark Evans,Morgan Walker,Tech ,Product Support,2022-08-01,2023-01-18,Low Risk,Voluntary,-30.0,5,0-6 months
+815,Jasmine Cox,Don Paquette,Tech ,Product Support,2022-08-08,2023-07-25,Low Risk,,,11,6-12 months
+817,Lindsay Fernandez,Jennifer Kephart,QA API Co,Dev/QA-API,2022-08-15,2023-08-11,Low Risk,,,11,6-12 months
+818,Courtney James,Jennifer Kephart,QA API Co,Dev/QA-API,2022-08-15,2023-08-09,Low Risk,,,11,6-12 months
+819,Denise Townsend,Jennifer Kephart,QA Express Co,Dev/QA-RM EXP,2022-08-15,2023-08-11,Low Risk,,,11,6-12 months
+820,Jonathan Ward,Jennifer Kephart,QA Express Co,Dev/QA-RM EXP,2022-08-15,2023-08-09,Low Risk,,,11,6-12 months
+848,Hannah Ryan,Jennifer Kephart,Finance ,Product Support,2022-10-17,2023-06-19,Low Risk,Voluntary,-30.0,8,6-12 months
+852,Michael Brown,Morgan Walker,Tech ,Product Support,2022-11-14,2023-01-13,Low Risk,Voluntary,,1,0-6 months
+853,Gregory Ramos,Morgan Walker,Finance ,Product Support,2022-11-14,2023-02-10,Low Risk,Voluntary,,2,0-6 months
+854,Brenda Gallegos,Don Paquette,DevPortal ,Dev/QA-Portal,2022-11-21,2023-06-30,Low Risk,Voluntary,-30.0,7,6-12 months
+855,Kristin Wallace,Jennifer Kephart,Web ,Product Support,2022-11-28,2023-02-20,Low Risk,,,2,0-6 months
+858,Cameron Chen,Jennifer Kephart,Scripting ,Product Support,2022-12-05,2023-01-05,Low Risk,Voluntary,-30.0,1,0-6 months
+866,Jennifer Austin,Jennifer Kephart,Finance ,Product Support,2023-01-03,2023-01-03,Low Risk,,,0,
+867,Denise Erickson,Don Paquette,Systems ,Systems,2023-01-09,2023-01-09,Low Risk,,,0,
+870,Jessica Patrick,Jennifer Kephart,DevQManage ,Dev/QA-QManage,2023-01-03,2023-02-01,Low Risk,Voluntary,-30.0,0,
+872,Tina Bennett,Don Paquette,Sales Intern ,Sales,2023-01-09,2023-04-28,Low Risk,,,3,0-6 months
+882,Sara Williams,Don Paquette,Finance ,Product Support,2023-01-23,2023-09-18,Low Risk,,,7,6-12 months
+883,Maria Johnson,Morgan Walker,DevAPI ,Dev/QA-API,2023-01-30,2023-09-08,Low Risk,Voluntary,-30.0,7,6-12 months
+884,Laura Bowen,Morgan Walker,Tech ,Product Support,2023-01-30,2023-03-30,Low Risk,Voluntary,,1,0-6 months
+888,Paula White,Jennifer Kephart,Finance ,Product Support,2023-02-06,2023-03-06,Low Risk,Voluntary,-30.0,0,
+892,Steven Curtis,Morgan Walker,General ,Product Support,2023-02-20,2023-11-22,Some Risk,Voluntary,-30.0,9,6-12 months
+893,Sabrina Blackwell,Jennifer Kephart,Mobile,Product Support,2023-02-20,2023-04-04,Low Risk,,,1,0-6 months
+896,Kara Johnson,Don Paquette,Systems ,Systems,2023-03-13,2023-11-22,Low Risk,Voluntary,-30.0,8,6-12 months
+897,Yolanda Hampton,Morgan Walker,Tech ,Product Support,2023-03-27,2023-04-12,Low Risk,Voluntary,-30.0,0,
+901,Cody Wall,Morgan Walker,DevMobile11,Dev/QA-Mobile,2023-04-17,2023-11-10,Low Risk,Voluntary,-30.0,6,0-6 months
+907,James Frazier,Morgan Walker,Finance ,Product Support,2023-05-01,2023-05-17,Low Risk,Voluntary,-30.0,0,
+914,Ricky Moore,Morgan Walker,QA Express Co,Dev/QA-RM EXP,2023-05-01,2023-08-18,Low Risk,,,3,0-6 months
+917,Jose Watson,Don Paquette,DevExpress II,Dev/QA-RM EXP,2023-05-08,2023-08-24,High Risk,,,3,0-6 months
+918,Sean Foster,Don Paquette,Dev Express III,Dev/QA-RM EXP,2023-05-08,2023-07-07,Low Risk,Voluntary,-30.0,1,0-6 months
+920,Catherine Sandoval,Don Paquette,QA API Co,Dev/QA-API,2023-05-08,2023-08-09,Low Risk,,,3,0-6 months
+921,Melissa Lambert,Don Paquette,DevQManageCoop ,Dev/QA-QManage,2023-05-08,2023-08-04,Low Risk,,,2,0-6 months
+922,Olivia Johnson,Don Paquette,QA RM12 Coop,RM12,2023-05-08,2023-08-11,Low Risk,,,3,0-6 months
+926,Timothy Richardson,Jennifer Kephart,Marketing Co,Marketing,2023-05-15,2023-08-11,Low Risk,,,2,0-6 months
+927,Stephen Walter,Jennifer Kephart,Sales Intern,Sales,2023-05-15,2023-08-09,Low Risk,,,2,0-6 months
+928,Nicholas Gray,Jennifer Kephart,DevQManageCo,Dev/QA-QManage,2023-05-15,2023-08-04,Low Risk,,,2,0-6 months
+929,Ariana Russell,Jennifer Kephart,Api Serv Dev Co,API Services,2023-05-15,2023-08-16,Low Risk,,,3,0-6 months
+933,Diana Fisher,Jennifer Kephart,QA Tools Co,Dev Tools & Release,2023-05-15,2023-08-11,Low Risk,,,2,0-6 months
+935,Michael Garcia,Morgan Walker,DevExps Co,Dev/QA-RM EXP,2023-05-22,2023-08-11,Low Risk,,,2,0-6 months
+936,Samuel Smith,Morgan Walker,QA API Co,Dev/QA-API,2023-05-22,2023-08-11,Low Risk,,,2,0-6 months
+938,Gina Martin,Morgan Walker,Tech ,Product Support,2023-05-22,2023-07-28,Low Risk,Voluntary,-30.0,2,0-6 months
+943,Thomas Martin,Don Paquette,QA Portal Co,Dev/QA-Portal,2023-05-30,2023-08-17,Low Risk,,,2,0-6 months
+945,Tyrone Allen,Jennifer Kephart,Finance ,Product Support,2023-06-05,2023-06-27,Low Risk,Voluntary,-30.0,0,
+952,Laura Smith,Morgan Walker,Marketing Co,Marketing,2023-06-12,2023-09-01,Low Risk,,,2,0-6 months
+953,Barry Hernandez,Jennifer Kephart,Tech ,Product Support,2023-06-19,2023-09-01,Low Risk,,-30.0,2,0-6 months
+957,Gina Downs,Morgan Walker,Scripting ,Product Support,2023-07-10,2023-09-15,Low Risk,,-30.0,2,0-6 months
+960,Geoffrey Hamilton,Don Paquette,Finance ,Product Support,2023-07-24,2023-08-14,Some Risk,,-30.0,0,
+971,Kimberly Ortiz,Morgan Walker,Scripting ,Product Support,2023-08-14,2023-10-17,Low Risk,Voluntary,-30.0,2,0-6 months
+986,Mr. Richard Murphy,Morgan Walker,Tech ,Product Support,2023-09-11,2023-09-29,Low Risk,,-30.0,0,
